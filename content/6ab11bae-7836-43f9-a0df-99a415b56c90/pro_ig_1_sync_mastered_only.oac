@@ -1,0 +1,13 @@
+Version 1 11
+{
+	IsStream True
+	Stream
+	{
+		Channel 0x127AC748
+		{
+			Headroom -191
+			Wave pro_ig_1_sync_mastered_only\0x127AC748.wav
+			Events null
+		}
+	}
+}

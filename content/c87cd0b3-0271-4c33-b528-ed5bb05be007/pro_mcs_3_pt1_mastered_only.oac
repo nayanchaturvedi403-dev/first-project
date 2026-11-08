@@ -1,0 +1,25 @@
+Version 1 11
+{
+	IsStream True
+	Stream
+	{
+		Channel 0x0963A618
+		{
+			Headroom -191
+			Wave pro_mcs_3_pt1_mastered_only\0x0963A618.wav
+			Events null
+		}
+		Channel 0x1183642A
+		{
+			Headroom -191
+			Wave pro_mcs_3_pt1_mastered_only\0x1183642A.wav
+			Events null
+		}
+		Channel 0x1749FC1E
+		{
+			Headroom -191
+			Wave pro_mcs_3_pt1_mastered_only\0x1749FC1E.wav
+			Events null
+		}
+	}
+}

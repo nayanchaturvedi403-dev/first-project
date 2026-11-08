@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="2.0" id="{8F7C4DCA-DB40-447D-93B2-DA863ECC33E3}" target="Five">
+<metadata>
+<name>GTA 5 Hindi</name>
+<version>
+<major>2</major>
+<minor>0</minor>
+<tag>Stable</tag>
+</version>
+<author>
+<displayName>SlackZop Gaming</displayName>
+<actionLink>https://www.youtube.com/channel/UCCNaG90dAF7S-R9ybCx9NOg?sub_confirmation=1</actionLink>
+<web>https://www.gta5-mods.com/users/slackzop</web>
+<youtube>https://www.youtube.com/channel/UCCNaG90dAF7S-R9ybCx9NOg?sub_confirmation=1</youtube>
+</author>
+<description footerLink="https://www.youtube.com/channel/UCCNaG90dAF7S-R9ybCx9NOg?sub_confirmation=1" footerLinkTitle="SUBSCRIBE NOW!!"><![CDATA[Hindi Dialogues for GTA 5 Mission 1(Prologue) and 2(Franklin and Lamar) only!
+More Mission dialogues coming soon!
+Release Version/Date : Beta v2.0/1st Feb 2021]]></description>
+</metadata>
+<colors>
+<headerBackground useBlackTextColor="False">$FF23366A</headerBackground>
+<iconBackground>$FF0080FF</iconBackground>
+</colors>
+<content>
+<archive path="x64\audio\sfx\CUTSCENE_MASTERED_ONLY.rpf" createIfNotExist="True" type="RPF7">
+<add source="692ea36c-9c46-4cc7-a8d3-1bbee85cfa68\pro_mcs_7_seq_mastered_only.awc">\pro_mcs_7_seq_mastered_only.awc</add>
+<add source="96c7a0c5-38d5-46df-88bb-f1a2877f06dc\arm_1_mcs_2_concat_seq_mastered_only.awc">\arm_1_mcs_2_concat_seq_mastered_only.awc</add>
+<add source="e1d97218-5dce-44b0-9325-64c1c1d51376\armenian_1_int_seq_mastered_only.awc">\armenian_1_int_seq_mastered_only.awc</add>
+<add source="145d3585-d5dd-4ea5-a90b-1413f77a9ad8\armenian_1_mcs_1_mastered_only.awc">\armenian_1_mcs_1_mastered_only.awc</add>
+</archive>
+<archive path="x64\audio\sfx\PROLOGUE.rpf" createIfNotExist="True" type="RPF7">
+<add source="dab17ee9-1e58-4acf-a4e0-4a62a8b9155b\pro_ig_1_sync_mastered_only.awc">\pro_ig_1_sync_mastered_only.awc</add>
+<add source="42c94017-8690-4d9d-8f55-5fb360237b6f\pro_mcs_1_mastered_only.awc">\pro_mcs_1_mastered_only.awc</add>
+<add source="d585dd96-8b4a-4175-8671-def0409b536a\pro_mcs_2_mastered_only.awc">\pro_mcs_2_mastered_only.awc</add>
+<add source="e5f1d1c0-dff1-4c83-b3e5-43ed6d81c03b\pro_mcs_3_pt1_mastered_only.awc">\pro_mcs_3_pt1_mastered_only.awc</add>
+<add source="421a43a9-8018-47fc-8dd0-f4af26c785b3\pro_mcs_5_seq_mastered_only.awc">\pro_mcs_5_seq_mastered_only.awc</add>
+<add source="22cdd579-bb6d-4188-a149-7fbd445571bb\pro_mcs_6_seq_mastered_only.awc">\pro_mcs_6_seq_mastered_only.awc</add>
+</archive>
+<archive path="x64\audio\sfx\SS_AC.rpf" createIfNotExist="True" type="RPF7">
+<add source="515d017f-3cee-44e9-bfc1-ef71e17ed9c1\arm1.awc">\arm1.awc</add>
+</archive>
+<archive path="x64\audio\sfx\SS_NP.rpf" createIfNotExist="True" type="RPF7">
+<add source="12643c00-a390-4c88-af7a-270f9bda3154\pro.awc">\pro.awc</add>
+</archive>
+</content>
+</package>

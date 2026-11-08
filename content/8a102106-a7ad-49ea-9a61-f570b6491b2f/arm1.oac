@@ -1,0 +1,4760 @@
+Version 1 11
+{
+	IsStream False
+	DescriptorsInOrder True
+	Entries
+	{
+		WaveTrack ARM1_CKAD_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CKAD_01.wav
+			AnimClip arm1\ARM1_CKAD_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_ECAA_01
+		{
+			Compression ADPCM
+			Headroom 136
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_ECAA_01.wav
+			AnimClip arm1\ARM1_ECAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_AQAD_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_AQAD_01.wav
+			AnimClip arm1\ARM1_AQAD_01.yclip
+			Events
+			{
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 57619
+					Flags 0x00000000
+				}
+			}
+			UNKNOWN_23097A2B
+			{
+				Item
+				{
+					_f0 233061320
+					_f4 0
+					_f8 0.00000000
+					_fC 1.00000000
+					_f10 0.97233370
+					_f14 1.00000000
+					_f18 0.25000000
+					_f1C 0.19727890
+					_f20 1
+				}
+				Item
+				{
+					_f0 1047450465
+					_f4 31883
+					_f8 0.00000000
+					_fC 0.75453880
+					_f10 1.00000000
+					_f14 1.00000000
+					_f18 0.44217690
+					_f1C 0.36410430
+					_f20 1
+				}
+				Item
+				{
+					_f0 1160513276
+					_f4 83718
+					_f8 0.00000000
+					_fC 0.78299320
+					_f10 1.00000000
+					_f14 1.00000000
+					_f18 0.43537410
+					_f1C 0.50000000
+					_f20 1
+				}
+			}
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_ADAA_03
+		{
+			Compression ADPCM
+			Headroom 180
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_ADAA_03.wav
+			AnimClip arm1\ARM1_ADAA_03.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BTAA_01
+		{
+			Compression ADPCM
+			Headroom -106
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BTAA_01.wav
+			AnimClip arm1\ARM1_BTAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DRAT_01
+		{
+			Compression ADPCM
+			Headroom 263
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DRAT_01.wav
+			AnimClip arm1\ARM1_DRAT_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DCAD_01
+		{
+			Compression ADPCM
+			Headroom 110
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DCAD_01.wav
+			AnimClip arm1\ARM1_DCAD_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_ACAA_02
+		{
+			Compression ADPCM
+			Headroom 260
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_ACAA_02.wav
+			AnimClip arm1\ARM1_ACAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DJAA_04
+		{
+			Compression ADPCM
+			Headroom -158
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DJAA_04.wav
+			AnimClip arm1\ARM1_DJAA_04.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CEAA_02
+		{
+			Compression ADPCM
+			Headroom -153
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CEAA_02.wav
+			AnimClip arm1\ARM1_CEAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_AEAB_01
+		{
+			Compression ADPCM
+			Headroom -199
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_AEAB_01.wav
+			AnimClip arm1\ARM1_AEAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DIAA_01
+		{
+			Compression ADPCM
+			Headroom -180
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DIAA_01.wav
+			AnimClip arm1\ARM1_DIAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BLAA_02
+		{
+			Compression ADPCM
+			Headroom 170
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BLAA_02.wav
+			AnimClip arm1\ARM1_BLAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_AEAD_01
+		{
+			Compression ADPCM
+			Headroom 240
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_AEAD_01.wav
+			AnimClip arm1\ARM1_AEAD_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CHAA_02
+		{
+			Compression ADPCM
+			Headroom -177
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CHAA_02.wav
+			AnimClip arm1\ARM1_CHAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CUAA_02
+		{
+			Compression ADPCM
+			Headroom -168
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CUAA_02.wav
+			AnimClip arm1\ARM1_CUAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_AGAC_01
+		{
+			Compression ADPCM
+			Headroom 102
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_AGAC_01.wav
+			AnimClip arm1\ARM1_AGAC_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DOAB_01
+		{
+			Compression ADPCM
+			Headroom -143
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DOAB_01.wav
+			AnimClip arm1\ARM1_DOAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DKAA_01
+		{
+			Compression ADPCM
+			Headroom -141
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DKAA_01.wav
+			AnimClip arm1\ARM1_DKAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DBAE_01
+		{
+			Compression ADPCM
+			Headroom -14
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DBAE_01.wav
+			AnimClip arm1\ARM1_DBAE_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CMAA_01
+		{
+			Compression ADPCM
+			Headroom -21
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CMAA_01.wav
+			AnimClip arm1\ARM1_CMAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_ACAA_04
+		{
+			Compression ADPCM
+			Headroom 255
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_ACAA_04.wav
+			AnimClip arm1\ARM1_ACAA_04.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BGAA_06
+		{
+			Compression ADPCM
+			Headroom -73
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BGAA_06.wav
+			AnimClip arm1\ARM1_BGAA_06.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DPAB_01
+		{
+			Compression ADPCM
+			Headroom -127
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DPAB_01.wav
+			AnimClip arm1\ARM1_DPAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BGAA_01
+		{
+			Compression ADPCM
+			Headroom -86
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BGAA_01.wav
+			AnimClip arm1\ARM1_BGAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BIAA_01
+		{
+			Compression ADPCM
+			Headroom -83
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BIAA_01.wav
+			AnimClip arm1\ARM1_BIAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BHAA_01
+		{
+			Compression ADPCM
+			Headroom -144
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BHAA_01.wav
+			AnimClip arm1\ARM1_BHAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_ADAA_01
+		{
+			Compression ADPCM
+			Headroom 294
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_ADAA_01.wav
+			AnimClip arm1\ARM1_ADAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_AVAA_01
+		{
+			Compression ADPCM
+			Headroom -137
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_AVAA_01.wav
+			AnimClip arm1\ARM1_AVAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CBAA_02
+		{
+			Compression ADPCM
+			Headroom -163
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CBAA_02.wav
+			AnimClip arm1\ARM1_CBAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DGAA_01
+		{
+			Compression ADPCM
+			Headroom -160
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DGAA_01.wav
+			AnimClip arm1\ARM1_DGAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DYAA_01
+		{
+			Compression ADPCM
+			Headroom 110
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DYAA_01.wav
+			AnimClip arm1\ARM1_DYAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DBAC_01
+		{
+			Compression ADPCM
+			Headroom -178
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DBAC_01.wav
+			AnimClip arm1\ARM1_DBAC_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CIAE_01
+		{
+			Compression ADPCM
+			Headroom -140
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CIAE_01.wav
+			AnimClip arm1\ARM1_CIAE_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BCAA_01
+		{
+			Compression ADPCM
+			Headroom -148
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BCAA_01.wav
+			AnimClip arm1\ARM1_BCAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_AIAA_02
+		{
+			Compression ADPCM
+			Headroom -63
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_AIAA_02.wav
+			AnimClip arm1\ARM1_AIAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CCAE_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CCAE_01.wav
+			AnimClip arm1\ARM1_CCAE_01.yclip
+			Events
+			{
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 16538
+					Flags 0x00000000
+				}
+			}
+			UNKNOWN_23097A2B
+			{
+				Item
+				{
+					_f0 1014212772
+					_f4 0
+					_f8 0.00000000
+					_fC 1.00000000
+					_f10 0.82187680
+					_f14 0.80000000
+					_f18 0.25000000
+					_f1C 0.21768710
+					_f20 1
+				}
+				Item
+				{
+					_f0 964801060
+					_f4 37177
+					_f8 0.00000000
+					_fC 1.00000000
+					_f10 0.93169020
+					_f14 0.85000000
+					_f18 0.42176870
+					_f1C 0.50000000
+					_f20 1
+				}
+			}
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CXAA_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CXAA_01.wav
+			AnimClip arm1\ARM1_CXAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_AEAC_01
+		{
+			Compression ADPCM
+			Headroom -190
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_AEAC_01.wav
+			AnimClip arm1\ARM1_AEAC_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DHAB_01
+		{
+			Compression ADPCM
+			Headroom 110
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DHAB_01.wav
+			AnimClip arm1\ARM1_DHAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DXAB_01
+		{
+			Compression ADPCM
+			Headroom 110
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DXAB_01.wav
+			AnimClip arm1\ARM1_DXAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BKAA_02
+		{
+			Compression ADPCM
+			Headroom -92
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BKAA_02.wav
+			AnimClip arm1\ARM1_BKAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CQAB_01
+		{
+			Compression ADPCM
+			Headroom 110
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CQAB_01.wav
+			AnimClip arm1\ARM1_CQAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CIAA_01
+		{
+			Compression ADPCM
+			Headroom -188
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CIAA_01.wav
+			AnimClip arm1\ARM1_CIAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BLAA_03
+		{
+			Compression ADPCM
+			Headroom 149
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BLAA_03.wav
+			AnimClip arm1\ARM1_BLAA_03.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DOAD_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DOAD_01.wav
+			AnimClip arm1\ARM1_DOAD_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_AKAA_01
+		{
+			Compression ADPCM
+			Headroom -36
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_AKAA_01.wav
+			AnimClip arm1\ARM1_AKAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DJAA_02
+		{
+			Compression ADPCM
+			Headroom 110
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DJAA_02.wav
+			AnimClip arm1\ARM1_DJAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_AUAB_01
+		{
+			Compression ADPCM
+			Headroom 77
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_AUAB_01.wav
+			AnimClip arm1\ARM1_AUAB_01.yclip
+			Events
+			{
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 35840
+					Flags 0x00000000
+				}
+			}
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DRAB_01
+		{
+			Compression ADPCM
+			Headroom -17
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DRAB_01.wav
+			AnimClip arm1\ARM1_DRAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BUAB_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BUAB_01.wav
+			AnimClip arm1\ARM1_BUAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DLAA_01
+		{
+			Compression ADPCM
+			Headroom -137
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DLAA_01.wav
+			AnimClip arm1\ARM1_DLAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BFAA_03
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BFAA_03.wav
+			AnimClip arm1\ARM1_BFAA_03.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CRAA_01
+		{
+			Compression ADPCM
+			Headroom -149
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CRAA_01.wav
+			AnimClip arm1\ARM1_CRAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BMAA_06
+		{
+			Compression ADPCM
+			Headroom 110
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BMAA_06.wav
+			AnimClip arm1\ARM1_BMAA_06.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BGAA_05
+		{
+			Compression ADPCM
+			Headroom -69
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BGAA_05.wav
+			AnimClip arm1\ARM1_BGAA_05.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_AUAA_01
+		{
+			Compression ADPCM
+			Headroom -178
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_AUAA_01.wav
+			AnimClip arm1\ARM1_AUAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CSAB_01
+		{
+			Compression ADPCM
+			Headroom 110
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CSAB_01.wav
+			AnimClip arm1\ARM1_CSAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BUAA_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BUAA_01.wav
+			AnimClip arm1\ARM1_BUAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CUAA_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CUAA_01.wav
+			AnimClip arm1\ARM1_CUAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DJAA_01
+		{
+			Compression ADPCM
+			Headroom -17
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DJAA_01.wav
+			AnimClip arm1\ARM1_DJAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BLAA_05
+		{
+			Compression ADPCM
+			Headroom 190
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BLAA_05.wav
+			AnimClip arm1\ARM1_BLAA_05.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CKAC_01
+		{
+			Compression ADPCM
+			Headroom -130
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CKAC_01.wav
+			AnimClip arm1\ARM1_CKAC_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BIAA_02
+		{
+			Compression ADPCM
+			Headroom -100
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BIAA_02.wav
+			AnimClip arm1\ARM1_BIAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BDAA_01
+		{
+			Compression ADPCM
+			Headroom -171
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BDAA_01.wav
+			AnimClip arm1\ARM1_BDAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DRAU_01
+		{
+			Compression ADPCM
+			Headroom 223
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DRAU_01.wav
+			AnimClip arm1\ARM1_DRAU_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BJAA_03
+		{
+			Compression ADPCM
+			Headroom -135
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BJAA_03.wav
+			AnimClip arm1\ARM1_BJAA_03.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CBAA_05
+		{
+			Compression ADPCM
+			Headroom -102
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CBAA_05.wav
+			AnimClip arm1\ARM1_CBAA_05.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BGAA_07
+		{
+			Compression ADPCM
+			Headroom -115
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BGAA_07.wav
+			AnimClip arm1\ARM1_BGAA_07.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DVAB_01
+		{
+			Compression ADPCM
+			Headroom 915
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DVAB_01.wav
+			AnimClip arm1\ARM1_DVAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BKAA_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BKAA_01.wav
+			AnimClip arm1\ARM1_BKAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BJAA_01
+		{
+			Compression ADPCM
+			Headroom -21
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BJAA_01.wav
+			AnimClip arm1\ARM1_BJAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_EBAB_01
+		{
+			Compression ADPCM
+			Headroom 110
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_EBAB_01.wav
+			AnimClip arm1\ARM1_EBAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_AHAB_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_AHAB_01.wav
+			AnimClip arm1\ARM1_AHAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DDAB_01
+		{
+			Compression ADPCM
+			Headroom -41
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DDAB_01.wav
+			AnimClip arm1\ARM1_DDAB_01.yclip
+			Events
+			{
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 7040
+					Flags 0x00000000
+				}
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 97600
+					Flags 0x00000000
+				}
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 143360
+					Flags 0x00000000
+				}
+			}
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_AOAC_01
+		{
+			Compression ADPCM
+			Headroom 169
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_AOAC_01.wav
+			AnimClip arm1\ARM1_AOAC_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_ADAA_02
+		{
+			Compression ADPCM
+			Headroom 265
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_ADAA_02.wav
+			AnimClip arm1\ARM1_ADAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_EBAA_01
+		{
+			Compression ADPCM
+			Headroom 247
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_EBAA_01.wav
+			AnimClip arm1\ARM1_EBAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DRAD_01
+		{
+			Compression ADPCM
+			Headroom -170
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DRAD_01.wav
+			AnimClip arm1\ARM1_DRAD_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BVAA_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BVAA_01.wav
+			AnimClip arm1\ARM1_BVAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BFAA_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BFAA_01.wav
+			AnimClip arm1\ARM1_BFAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DFAA_02
+		{
+			Compression ADPCM
+			Headroom 110
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DFAA_02.wav
+			AnimClip arm1\ARM1_DFAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DJAA_05
+		{
+			Compression ADPCM
+			Headroom 110
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DJAA_05.wav
+			AnimClip arm1\ARM1_DJAA_05.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DBAD_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DBAD_01.wav
+			AnimClip arm1\ARM1_DBAD_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BVAB_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BVAB_01.wav
+			AnimClip arm1\ARM1_BVAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_AOAB_01
+		{
+			Compression ADPCM
+			Headroom -150
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_AOAB_01.wav
+			AnimClip arm1\ARM1_AOAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DCAB_01
+		{
+			Compression ADPCM
+			Headroom -87
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DCAB_01.wav
+			AnimClip arm1\ARM1_DCAB_01.yclip
+			Events
+			{
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 22080
+					Flags 0x00000000
+				}
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 57600
+					Flags 0x00000000
+				}
+			}
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DGAA_04
+		{
+			Compression ADPCM
+			Headroom -161
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DGAA_04.wav
+			AnimClip arm1\ARM1_DGAA_04.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BHAA_04
+		{
+			Compression ADPCM
+			Headroom -87
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BHAA_04.wav
+			AnimClip arm1\ARM1_BHAA_04.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CCAJ_01
+		{
+			Compression ADPCM
+			Headroom -190
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CCAJ_01.wav
+			AnimClip arm1\ARM1_CCAJ_01.yclip
+			Events null
+			UNKNOWN_23097A2B
+			{
+				Item
+				{
+					_f0 2551860640
+					_f4 0
+					_f8 0.00000000
+					_fC 0.83863810
+					_f10 0.88950750
+					_f14 0.75000000
+					_f18 0.25000000
+					_f1C 0.50000000
+					_f20 1
+				}
+			}
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BHAA_02
+		{
+			Compression ADPCM
+			Headroom -101
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BHAA_02.wav
+			AnimClip arm1\ARM1_BHAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_AOAA_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_AOAA_01.wav
+			AnimClip arm1\ARM1_AOAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CFAE_01
+		{
+			Compression ADPCM
+			Headroom -89
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CFAE_01.wav
+			AnimClip arm1\ARM1_CFAE_01.yclip
+			Events
+			{
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 8591
+					Flags 0x00000000
+				}
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 38111
+					Flags 0x00000000
+				}
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 86242
+					Flags 0x00000000
+				}
+			}
+			UNKNOWN_23097A2B
+			{
+				Item
+				{
+					_f0 233061320
+					_f4 0
+					_f8 0.00000000
+					_fC 0.93347280
+					_f10 0.83976800
+					_f14 1.00000000
+					_f18 0.25000000
+					_f1C 0.16714290
+					_f20 1
+				}
+				Item
+				{
+					_f0 1014212772
+					_f4 35558
+					_f8 0.00000000
+					_fC 0.89631930
+					_f10 0.81418720
+					_f14 0.75000000
+					_f18 0.53580500
+					_f1C 0.20775510
+					_f20 1
+				}
+				Item
+				{
+					_f0 855168935
+					_f4 60068
+					_f8 0.07105064
+					_fC 1.00000000
+					_f10 0.86338540
+					_f14 1.00000000
+					_f18 0.64401360
+					_f1C 0.50000000
+					_f20 1
+				}
+				Item
+				{
+					_f0 1047450465
+					_f4 87602
+					_f8 0.00000000
+					_fC 0.58283230
+					_f10 1.00000000
+					_f14 1.00000000
+					_f18 0.53741500
+					_f1C 0.50000000
+					_f20 1
+				}
+			}
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_EAAA_01
+		{
+			Compression ADPCM
+			Headroom 190
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_EAAA_01.wav
+			AnimClip arm1\ARM1_EAAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_AOAD_01
+		{
+			Compression ADPCM
+			Headroom -158
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_AOAD_01.wav
+			AnimClip arm1\ARM1_AOAD_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BZAB_01
+		{
+			Compression ADPCM
+			Headroom -117
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BZAB_01.wav
+			AnimClip arm1\ARM1_BZAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CCAB_01
+		{
+			Compression ADPCM
+			Headroom 52
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CCAB_01.wav
+			AnimClip arm1\ARM1_CCAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B
+			{
+				Item
+				{
+					_f0 4139860852
+					_f4 0
+					_f8 0.00000000
+					_fC 1.00000000
+					_f10 0.82378580
+					_f14 1.00000000
+					_f18 0.25000000
+					_f1C 0.50000000
+					_f20 1
+				}
+			}
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BMAA_01
+		{
+			Compression ADPCM
+			Headroom 110
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BMAA_01.wav
+			AnimClip arm1\ARM1_BMAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DEAA_02
+		{
+			Compression ADPCM
+			Headroom -42
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DEAA_02.wav
+			AnimClip arm1\ARM1_DEAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_AQAC_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_AQAC_01.wav
+			AnimClip arm1\ARM1_AQAC_01.yclip
+			Events
+			{
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 25462
+					Flags 0x00000000
+				}
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 83662
+					Flags 0x00000000
+				}
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 127086
+					Flags 0x00000000
+				}
+			}
+			UNKNOWN_23097A2B
+			{
+				Item
+				{
+					_f0 2551860640
+					_f4 0
+					_f8 0.00000000
+					_fC 1.00000000
+					_f10 0.84590790
+					_f14 0.85000000
+					_f18 0.25000000
+					_f1C 0.10743760
+					_f20 1
+				}
+				Item
+				{
+					_f0 964801060
+					_f4 38108
+					_f8 0.00000000
+					_fC 1.00000000
+					_f10 1.00000000
+					_f14 0.85000000
+					_f18 0.41723360
+					_f1C 0.13986400
+					_f20 1
+				}
+				Item
+				{
+					_f0 1047450465
+					_f4 70229
+					_f8 0.00000000
+					_fC 0.58419070
+					_f10 0.91813300
+					_f14 0.80000000
+					_f18 0.41723360
+					_f1C 0.20405900
+					_f20 1
+				}
+				Item
+				{
+					_f0 4139860852
+					_f4 113953
+					_f8 0.00000000
+					_fC 1.00000000
+					_f10 1.00000000
+					_f14 0.75000000
+					_f18 0.41723360
+					_f1C 0.50000000
+					_f20 1
+				}
+			}
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CIAC_01
+		{
+			Compression ADPCM
+			Headroom -183
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CIAC_01.wav
+			AnimClip arm1\ARM1_CIAC_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_AFAA_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_AFAA_01.wav
+			AnimClip arm1\ARM1_AFAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DOAA_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DOAA_01.wav
+			AnimClip arm1\ARM1_DOAA_01.yclip
+			Events
+			{
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 9280
+					Flags 0x00000000
+				}
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 93120
+					Flags 0x00000000
+				}
+			}
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CWAB_01
+		{
+			Compression ADPCM
+			Headroom -45
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CWAB_01.wav
+			AnimClip arm1\ARM1_CWAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DNAA_01
+		{
+			Compression ADPCM
+			Headroom -142
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DNAA_01.wav
+			AnimClip arm1\ARM1_DNAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CEAA_01
+		{
+			Compression ADPCM
+			Headroom -164
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CEAA_01.wav
+			AnimClip arm1\ARM1_CEAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DFAA_03
+		{
+			Compression ADPCM
+			Headroom -174
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DFAA_03.wav
+			AnimClip arm1\ARM1_DFAA_03.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CCAA_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CCAA_01.wav
+			AnimClip arm1\ARM1_CCAA_01.yclip
+			Events
+			{
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 34240
+					Flags 0x00000000
+				}
+			}
+			UNKNOWN_23097A2B
+			{
+				Item
+				{
+					_f0 3472405925
+					_f4 0
+					_f8 0.00000000
+					_fC 1.00000000
+					_f10 0.57014240
+					_f14 0.80000000
+					_f18 0.25000000
+					_f1C 0.15873020
+					_f20 1
+				}
+				Item
+				{
+					_f0 2792692119
+					_f4 47400
+					_f8 0.00000000
+					_fC 1.00000000
+					_f10 0.98773000
+					_f14 0.85000000
+					_f18 0.38147390
+					_f1C 0.10986390
+					_f20 1
+				}
+				Item
+				{
+					_f0 964801060
+					_f4 121660
+					_f8 0.00000000
+					_fC 1.00000000
+					_f10 0.83522730
+					_f14 0.80000000
+					_f18 0.34467120
+					_f1C 0.50000000
+					_f20 1
+				}
+			}
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BLAA_01
+		{
+			Compression ADPCM
+			Headroom 163
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BLAA_01.wav
+			AnimClip arm1\ARM1_BLAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DWAA_01
+		{
+			Compression ADPCM
+			Headroom 225
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DWAA_01.wav
+			AnimClip arm1\ARM1_DWAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DJAA_03
+		{
+			Compression ADPCM
+			Headroom -133
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DJAA_03.wav
+			AnimClip arm1\ARM1_DJAA_03.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DBAA_01
+		{
+			Compression ADPCM
+			Headroom 192
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DBAA_01.wav
+			AnimClip arm1\ARM1_DBAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BLAA_07
+		{
+			Compression ADPCM
+			Headroom 130
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BLAA_07.wav
+			AnimClip arm1\ARM1_BLAA_07.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CWAC_01
+		{
+			Compression ADPCM
+			Headroom -109
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CWAC_01.wav
+			AnimClip arm1\ARM1_CWAC_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DBAF_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DBAF_01.wav
+			AnimClip arm1\ARM1_DBAF_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CRAB_01
+		{
+			Compression ADPCM
+			Headroom 110
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CRAB_01.wav
+			AnimClip arm1\ARM1_CRAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BMAA_03
+		{
+			Compression ADPCM
+			Headroom 110
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BMAA_03.wav
+			AnimClip arm1\ARM1_BMAA_03.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BIAA_04
+		{
+			Compression ADPCM
+			Headroom -97
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BIAA_04.wav
+			AnimClip arm1\ARM1_BIAA_04.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_AQAA_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_AQAA_01.wav
+			AnimClip arm1\ARM1_AQAA_01.yclip
+			Events
+			{
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 64000
+					Flags 0x00000000
+				}
+			}
+			UNKNOWN_23097A2B
+			{
+				Item
+				{
+					_f0 1047450465
+					_f4 0
+					_f8 0.02121279
+					_fC 0.75388040
+					_f10 0.90698600
+					_f14 0.85000000
+					_f18 0.32199550
+					_f1C 0.14285710
+					_f20 1
+				}
+				Item
+				{
+					_f0 964801060
+					_f4 59623
+					_f8 0.00000000
+					_fC 1.00000000
+					_f10 0.92388270
+					_f14 0.80000000
+					_f18 0.38095240
+					_f1C 0.50000000
+					_f20 1
+				}
+			}
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BFAA_04
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BFAA_04.wav
+			AnimClip arm1\ARM1_BFAA_04.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CBAA_01
+		{
+			Compression ADPCM
+			Headroom -131
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CBAA_01.wav
+			AnimClip arm1\ARM1_CBAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_AOAE_01
+		{
+			Compression ADPCM
+			Headroom -161
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_AOAE_01.wav
+			AnimClip arm1\ARM1_AOAE_01.yclip
+			Events
+			{
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 23866
+					Flags 0x00000000
+				}
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 49749
+					Flags 0x00000000
+				}
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 96007
+					Flags 0x00000000
+				}
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 145733
+					Flags 0x00000000
+				}
+			}
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_AMAA_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_AMAA_01.wav
+			AnimClip arm1\ARM1_AMAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DGAA_02
+		{
+			Compression ADPCM
+			Headroom -150
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DGAA_02.wav
+			AnimClip arm1\ARM1_DGAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DRAW_01
+		{
+			Compression ADPCM
+			Headroom -25
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DRAW_01.wav
+			AnimClip arm1\ARM1_DRAW_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BSAA_01
+		{
+			Compression ADPCM
+			Headroom 9
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BSAA_01.wav
+			AnimClip arm1\ARM1_BSAA_01.yclip
+			Events
+			{
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 17297
+					Flags 0x00000000
+				}
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 74577
+					Flags 0x00000000
+				}
+			}
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BLAA_06
+		{
+			Compression ADPCM
+			Headroom 161
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BLAA_06.wav
+			AnimClip arm1\ARM1_BLAA_06.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DNAB_01
+		{
+			Compression ADPCM
+			Headroom -88
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DNAB_01.wav
+			AnimClip arm1\ARM1_DNAB_01.yclip
+			Events
+			{
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 38720
+					Flags 0x00000000
+				}
+			}
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BZAA_01
+		{
+			Compression ADPCM
+			Headroom -162
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BZAA_01.wav
+			AnimClip arm1\ARM1_BZAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_ACAA_01
+		{
+			Compression ADPCM
+			Headroom 228
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_ACAA_01.wav
+			AnimClip arm1\ARM1_ACAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BZAC_01
+		{
+			Compression ADPCM
+			Headroom -104
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BZAC_01.wav
+			AnimClip arm1\ARM1_BZAC_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_AXAA_01
+		{
+			Compression ADPCM
+			Headroom -57
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_AXAA_01.wav
+			AnimClip arm1\ARM1_AXAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DMAA_01
+		{
+			Compression ADPCM
+			Headroom -149
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DMAA_01.wav
+			AnimClip arm1\ARM1_DMAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_AIAA_01
+		{
+			Compression ADPCM
+			Headroom -97
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_AIAA_01.wav
+			AnimClip arm1\ARM1_AIAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CAAA_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CAAA_01.wav
+			AnimClip arm1\ARM1_CAAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CLAA_01
+		{
+			Compression ADPCM
+			Headroom -69
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CLAA_01.wav
+			AnimClip arm1\ARM1_CLAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DDAA_01
+		{
+			Compression ADPCM
+			Headroom -167
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DDAA_01.wav
+			AnimClip arm1\ARM1_DDAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_AHAE_01
+		{
+			Compression ADPCM
+			Headroom -149
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_AHAE_01.wav
+			AnimClip arm1\ARM1_AHAE_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DRAC_01
+		{
+			Compression ADPCM
+			Headroom -133
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DRAC_01.wav
+			AnimClip arm1\ARM1_DRAC_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_AHAA_01
+		{
+			Compression ADPCM
+			Headroom -103
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_AHAA_01.wav
+			AnimClip arm1\ARM1_AHAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_AFAB_01
+		{
+			Compression ADPCM
+			Headroom 110
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_AFAB_01.wav
+			AnimClip arm1\ARM1_AFAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_ALAA_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_ALAA_01.wav
+			AnimClip arm1\ARM1_ALAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DVAA_01
+		{
+			Compression ADPCM
+			Headroom 117
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DVAA_01.wav
+			AnimClip arm1\ARM1_DVAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_ACAA_03
+		{
+			Compression ADPCM
+			Headroom 267
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_ACAA_03.wav
+			AnimClip arm1\ARM1_ACAA_03.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CFAF_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CFAF_01.wav
+			AnimClip arm1\ARM1_CFAF_01.yclip
+			Events
+			{
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 15032
+					Flags 0x00000000
+				}
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 101669
+					Flags 0x00000000
+				}
+			}
+			UNKNOWN_23097A2B
+			{
+				Item
+				{
+					_f0 1047450465
+					_f4 0
+					_f8 0.00000000
+					_fC 0.69743980
+					_f10 1.00000000
+					_f14 1.00000000
+					_f18 0.37975060
+					_f1C 0.22365080
+					_f20 1
+				}
+				Item
+				{
+					_f0 1056759044
+					_f4 49231
+					_f8 0.00000000
+					_fC 1.00000000
+					_f10 0.63441290
+					_f14 1.00000000
+					_f18 0.50113380
+					_f1C 0.30351470
+					_f20 1
+				}
+				Item
+				{
+					_f0 2322755231
+					_f4 86574
+					_f8 0.00000000
+					_fC 0.73771610
+					_f10 1.00000000
+					_f14 1.00000000
+					_f18 0.42630390
+					_f1C 0.19206350
+					_f20 1
+				}
+				Item
+				{
+					_f0 4148904455
+					_f4 102974
+					_f8 0.00000000
+					_fC 1.00000000
+					_f10 0.65625000
+					_f14 1.00000000
+					_f18 0.51020410
+					_f1C 0.50000000
+					_f20 1
+				}
+			}
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CJAA_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CJAA_01.wav
+			AnimClip arm1\ARM1_CJAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BOAA_01
+		{
+			Compression ADPCM
+			Headroom -59
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BOAA_01.wav
+			AnimClip arm1\ARM1_BOAA_01.yclip
+			Events
+			{
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 6080
+					Flags 0x00000000
+				}
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 28480
+					Flags 0x00000000
+				}
+			}
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BFAA_02
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BFAA_02.wav
+			AnimClip arm1\ARM1_BFAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_AHAC_01
+		{
+			Compression ADPCM
+			Headroom -26
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_AHAC_01.wav
+			AnimClip arm1\ARM1_AHAC_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_AGAA_01
+		{
+			Compression ADPCM
+			Headroom -197
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_AGAA_01.wav
+			AnimClip arm1\ARM1_AGAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_AGAB_01
+		{
+			Compression ADPCM
+			Headroom 121
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_AGAB_01.wav
+			AnimClip arm1\ARM1_AGAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BFAA_06
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BFAA_06.wav
+			AnimClip arm1\ARM1_BFAA_06.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CBAA_03
+		{
+			Compression ADPCM
+			Headroom -156
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CBAA_03.wav
+			AnimClip arm1\ARM1_CBAA_03.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DRAE_01
+		{
+			Compression ADPCM
+			Headroom 145
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DRAE_01.wav
+			AnimClip arm1\ARM1_DRAE_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BKAA_03
+		{
+			Compression ADPCM
+			Headroom -88
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BKAA_03.wav
+			AnimClip arm1\ARM1_BKAA_03.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DXAA_01
+		{
+			Compression ADPCM
+			Headroom 231
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DXAA_01.wav
+			AnimClip arm1\ARM1_DXAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DRAV_01
+		{
+			Compression ADPCM
+			Headroom -19
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DRAV_01.wav
+			AnimClip arm1\ARM1_DRAV_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BOAB_01
+		{
+			Compression ADPCM
+			Headroom -145
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BOAB_01.wav
+			AnimClip arm1\ARM1_BOAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CBAA_04
+		{
+			Compression ADPCM
+			Headroom -146
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CBAA_04.wav
+			AnimClip arm1\ARM1_CBAA_04.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_AKAB_01
+		{
+			Compression ADPCM
+			Headroom -129
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_AKAB_01.wav
+			AnimClip arm1\ARM1_AKAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_AHAD_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_AHAD_01.wav
+			AnimClip arm1\ARM1_AHAD_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CQAA_01
+		{
+			Compression ADPCM
+			Headroom -165
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CQAA_01.wav
+			AnimClip arm1\ARM1_CQAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_ANAB_01
+		{
+			Compression ADPCM
+			Headroom 88
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_ANAB_01.wav
+			AnimClip arm1\ARM1_ANAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BYAA_01
+		{
+			Compression ADPCM
+			Headroom -156
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BYAA_01.wav
+			AnimClip arm1\ARM1_BYAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DEAA_01
+		{
+			Compression ADPCM
+			Headroom -149
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DEAA_01.wav
+			AnimClip arm1\ARM1_DEAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BWAB_01
+		{
+			Compression ADPCM
+			Headroom -171
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BWAB_01.wav
+			AnimClip arm1\ARM1_BWAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BSAB_01
+		{
+			Compression ADPCM
+			Headroom -137
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BSAB_01.wav
+			AnimClip arm1\ARM1_BSAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_ALAB_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_ALAB_01.wav
+			AnimClip arm1\ARM1_ALAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CJAB_01
+		{
+			Compression ADPCM
+			Headroom 76
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CJAB_01.wav
+			AnimClip arm1\ARM1_CJAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_AMAB_01
+		{
+			Compression ADPCM
+			Headroom -173
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_AMAB_01.wav
+			AnimClip arm1\ARM1_AMAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DZAB_01
+		{
+			Compression ADPCM
+			Headroom 110
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DZAB_01.wav
+			AnimClip arm1\ARM1_DZAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BWAA_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BWAA_01.wav
+			AnimClip arm1\ARM1_BWAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CMAB_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CMAB_01.wav
+			AnimClip arm1\ARM1_CMAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DFAA_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DFAA_01.wav
+			AnimClip arm1\ARM1_DFAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_AAAA_01
+		{
+			Compression ADPCM
+			Headroom -56
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_AAAA_01.wav
+			AnimClip arm1\ARM1_AAAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BMAA_07
+		{
+			Compression ADPCM
+			Headroom 110
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BMAA_07.wav
+			AnimClip arm1\ARM1_BMAA_07.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BGAA_04
+		{
+			Compression ADPCM
+			Headroom -89
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BGAA_04.wav
+			AnimClip arm1\ARM1_BGAA_04.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DWAB_01
+		{
+			Compression ADPCM
+			Headroom 110
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DWAB_01.wav
+			AnimClip arm1\ARM1_DWAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DRAS_01
+		{
+			Compression ADPCM
+			Headroom -50
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DRAS_01.wav
+			AnimClip arm1\ARM1_DRAS_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CKAA_01
+		{
+			Compression ADPCM
+			Headroom 125
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CKAA_01.wav
+			AnimClip arm1\ARM1_CKAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DPAA_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DPAA_01.wav
+			AnimClip arm1\ARM1_DPAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CAAD_01
+		{
+			Compression ADPCM
+			Headroom -180
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CAAD_01.wav
+			AnimClip arm1\ARM1_CAAD_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CCAC_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CCAC_01.wav
+			AnimClip arm1\ARM1_CCAC_01.yclip
+			Events
+			{
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 45684
+					Flags 0x00000000
+				}
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 87284
+					Flags 0x00000000
+				}
+			}
+			UNKNOWN_23097A2B
+			{
+				Item
+				{
+					_f0 148213052
+					_f4 0
+					_f8 0.00000000
+					_fC 1.00000000
+					_f10 0.74260220
+					_f14 0.80000000
+					_f18 0.25000000
+					_f1C 0.50000000
+					_f20 1
+				}
+				Item
+				{
+					_f0 1047450465
+					_f4 49162
+					_f8 0.00000000
+					_fC 0.55618030
+					_f10 0.91292150
+					_f14 0.85000000
+					_f18 0.45578230
+					_f1C 0.29843540
+					_f20 1
+				}
+				Item
+				{
+					_f0 2322755231
+					_f4 86580
+					_f8 0.00000000
+					_fC 1.00000000
+					_f10 1.00000000
+					_f14 1.00000000
+					_f18 0.44126980
+					_f1C 0.50000000
+					_f20 1
+				}
+			}
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BLAA_08
+		{
+			Compression ADPCM
+			Headroom 134
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BLAA_08.wav
+			AnimClip arm1\ARM1_BLAA_08.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BJAA_04
+		{
+			Compression ADPCM
+			Headroom -112
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BJAA_04.wav
+			AnimClip arm1\ARM1_BJAA_04.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CCAH_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CCAH_01.wav
+			AnimClip arm1\ARM1_CCAH_01.yclip
+			Events
+			{
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 6820
+					Flags 0x00000000
+				}
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 85970
+					Flags 0x00000000
+				}
+			}
+			UNKNOWN_23097A2B
+			{
+				Item
+				{
+					_f0 2322755231
+					_f4 0
+					_f8 0.09936028
+					_fC 1.00000000
+					_f10 1.00000000
+					_f14 1.00000000
+					_f18 0.25000000
+					_f1C 0.26759640
+					_f20 1
+				}
+				Item
+				{
+					_f0 1014212772
+					_f4 23706
+					_f8 0.00000000
+					_fC 1.00000000
+					_f10 0.78715590
+					_f14 1.00000000
+					_f18 0.54195010
+					_f1C 0.16780050
+					_f20 1
+				}
+				Item
+				{
+					_f0 2551860640
+					_f4 63421
+					_f8 0.06198035
+					_fC 1.00000000
+					_f10 0.78750940
+					_f14 1.00000000
+					_f18 0.46258500
+					_f1C 0.24260770
+					_f20 1
+				}
+				Item
+				{
+					_f0 1047450465
+					_f4 109349
+					_f8 0.00000000
+					_fC 0.68297120
+					_f10 1.00000000
+					_f14 1.00000000
+					_f18 0.36054420
+					_f1C 0.21993200
+					_f20 1
+				}
+				Item
+				{
+					_f0 1160513276
+					_f4 154895
+					_f8 0.00000000
+					_fC 0.74937640
+					_f10 1.00000000
+					_f14 0.85000000
+					_f18 0.47845800
+					_f1C 0.50000000
+					_f20 1
+				}
+			}
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BMAA_04
+		{
+			Compression ADPCM
+			Headroom 110
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BMAA_04.wav
+			AnimClip arm1\ARM1_BMAA_04.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CAAB_01
+		{
+			Compression ADPCM
+			Headroom -160
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CAAB_01.wav
+			AnimClip arm1\ARM1_CAAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CAAC_01
+		{
+			Compression ADPCM
+			Headroom 110
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CAAC_01.wav
+			AnimClip arm1\ARM1_CAAC_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DHAA_01
+		{
+			Compression ADPCM
+			Headroom -178
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DHAA_01.wav
+			AnimClip arm1\ARM1_DHAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CXAB_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CXAB_01.wav
+			AnimClip arm1\ARM1_CXAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DGAA_03
+		{
+			Compression ADPCM
+			Headroom -143
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DGAA_03.wav
+			AnimClip arm1\ARM1_DGAA_03.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CCAF_01
+		{
+			Compression ADPCM
+			Headroom -101
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CCAF_01.wav
+			AnimClip arm1\ARM1_CCAF_01.yclip
+			Events
+			{
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 35787
+					Flags 0x00000000
+				}
+			}
+			UNKNOWN_23097A2B
+			{
+				Item
+				{
+					_f0 3638724710
+					_f4 0
+					_f8 0.07911319
+					_fC 0.81504520
+					_f10 0.84709530
+					_f14 0.65000000
+					_f18 0.25000000
+					_f1C 0.15873020
+					_f20 1
+				}
+				Item
+				{
+					_f0 1014212772
+					_f4 28019
+					_f8 0.00000000
+					_fC 1.00000000
+					_f10 0.85392810
+					_f14 0.85000000
+					_f18 0.48464850
+					_f1C 0.11564630
+					_f20 1
+				}
+				Item
+				{
+					_f0 1047450465
+					_f4 55886
+					_f8 0.00000000
+					_fC 0.58139530
+					_f10 0.81703270
+					_f14 0.80000000
+					_f18 0.44217690
+					_f1C 0.50000000
+					_f20 1
+				}
+			}
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CKAB_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CKAB_01.wav
+			AnimClip arm1\ARM1_CKAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_AKAC_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_AKAC_01.wav
+			AnimClip arm1\ARM1_AKAC_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BYAB_01
+		{
+			Compression ADPCM
+			Headroom -156
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BYAB_01.wav
+			AnimClip arm1\ARM1_BYAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_EAAB_01
+		{
+			Compression ADPCM
+			Headroom 110
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_EAAB_01.wav
+			AnimClip arm1\ARM1_EAAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BXAB_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BXAB_01.wav
+			AnimClip arm1\ARM1_BXAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BMAA_05
+		{
+			Compression ADPCM
+			Headroom 110
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BMAA_05.wav
+			AnimClip arm1\ARM1_BMAA_05.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CCAD_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CCAD_01.wav
+			AnimClip arm1\ARM1_CCAD_01.yclip
+			Events
+			{
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 26880
+					Flags 0x00000000
+				}
+			}
+			UNKNOWN_23097A2B
+			{
+				Item
+				{
+					_f0 148213052
+					_f4 0
+					_f8 0.08236778
+					_fC 0.72637750
+					_f10 0.76545200
+					_f14 0.80000000
+					_f18 0.25000000
+					_f1C 0.12244900
+					_f20 1
+				}
+				Item
+				{
+					_f0 2322755231
+					_f4 17488
+					_f8 0.10475030
+					_fC 1.00000000
+					_f10 0.76767950
+					_f14 0.95000000
+					_f18 0.40589570
+					_f1C 0.10176870
+					_f20 1
+				}
+				Item
+				{
+					_f0 233061320
+					_f4 63755
+					_f8 0.00000000
+					_fC 0.81428030
+					_f10 0.87196970
+					_f14 0.85000000
+					_f18 0.37414970
+					_f1C 0.50000000
+					_f20 1
+				}
+			}
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CIAB_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CIAB_01.wav
+			AnimClip arm1\ARM1_CIAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_AQAB_01
+		{
+			Compression ADPCM
+			Headroom 110
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_AQAB_01.wav
+			AnimClip arm1\ARM1_AQAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B
+			{
+				Item
+				{
+					_f0 1210922354
+					_f4 0
+					_f8 0.00000000
+					_fC 1.00000000
+					_f10 0.77537240
+					_f14 0.80000000
+					_f18 0.40453510
+					_f1C 0.07029478
+					_f20 1
+				}
+				Item
+				{
+					_f0 2551860640
+					_f4 34226
+					_f8 0.00000000
+					_fC 1.00000000
+					_f10 0.77187870
+					_f14 0.85000000
+					_f18 0.43764170
+					_f1C 0.50000000
+					_f20 1
+				}
+			}
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BXAA_01
+		{
+			Compression ADPCM
+			Headroom -99
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BXAA_01.wav
+			AnimClip arm1\ARM1_BXAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DIAB_01
+		{
+			Compression ADPCM
+			Headroom 110
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DIAB_01.wav
+			AnimClip arm1\ARM1_DIAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CWAA_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CWAA_01.wav
+			AnimClip arm1\ARM1_CWAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DEAA_03
+		{
+			Compression ADPCM
+			Headroom -118
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DEAA_03.wav
+			AnimClip arm1\ARM1_DEAA_03.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_ANAA_01
+		{
+			Compression ADPCM
+			Headroom -179
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_ANAA_01.wav
+			AnimClip arm1\ARM1_ANAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CHAA_01
+		{
+			Compression ADPCM
+			Headroom -147
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CHAA_01.wav
+			AnimClip arm1\ARM1_CHAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BTAB_01
+		{
+			Compression ADPCM
+			Headroom 110
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BTAB_01.wav
+			AnimClip arm1\ARM1_BTAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CIAD_01
+		{
+			Compression ADPCM
+			Headroom -68
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CIAD_01.wav
+			AnimClip arm1\ARM1_CIAD_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DJAA_06
+		{
+			Compression ADPCM
+			Headroom -155
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DJAA_06.wav
+			AnimClip arm1\ARM1_DJAA_06.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CCAI_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CCAI_01.wav
+			AnimClip arm1\ARM1_CCAI_01.yclip
+			Events null
+			UNKNOWN_23097A2B
+			{
+				Item
+				{
+					_f0 855168935
+					_f4 0
+					_f8 0.05041572
+					_fC 1.00000000
+					_f10 1.00000000
+					_f14 0.85000000
+					_f18 0.25000000
+					_f1C 0.29058960
+					_f20 1
+				}
+				Item
+				{
+					_f0 4274514720
+					_f4 26147
+					_f8 0.05777166
+					_fC 1.00000000
+					_f10 0.70729020
+					_f14 1.00000000
+					_f18 0.61907030
+					_f1C 0.50000000
+					_f20 1
+				}
+			}
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DBAB_01
+		{
+			Compression ADPCM
+			Headroom 813
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DBAB_01.wav
+			AnimClip arm1\ARM1_DBAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BQAB_01
+		{
+			Compression ADPCM
+			Headroom 110
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BQAB_01.wav
+			AnimClip arm1\ARM1_BQAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CLAB_01
+		{
+			Compression ADPCM
+			Headroom -72
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CLAB_01.wav
+			AnimClip arm1\ARM1_CLAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BGAA_02
+		{
+			Compression ADPCM
+			Headroom -147
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BGAA_02.wav
+			AnimClip arm1\ARM1_BGAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CLAC_01
+		{
+			Compression ADPCM
+			Headroom -87
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CLAC_01.wav
+			AnimClip arm1\ARM1_CLAC_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DRAA_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DRAA_01.wav
+			AnimClip arm1\ARM1_DRAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_ALAC_01
+		{
+			Compression ADPCM
+			Headroom -81
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_ALAC_01.wav
+			AnimClip arm1\ARM1_ALAC_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_ASAA_01
+		{
+			Compression ADPCM
+			Headroom -127
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_ASAA_01.wav
+			AnimClip arm1\ARM1_ASAA_01.yclip
+			Events
+			{
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 16640
+					Flags 0x00000000
+				}
+			}
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BLAA_04
+		{
+			Compression ADPCM
+			Headroom 166
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BLAA_04.wav
+			AnimClip arm1\ARM1_BLAA_04.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BJAA_02
+		{
+			Compression ADPCM
+			Headroom -153
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BJAA_02.wav
+			AnimClip arm1\ARM1_BJAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DYAB_01
+		{
+			Compression ADPCM
+			Headroom 177
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DYAB_01.wav
+			AnimClip arm1\ARM1_DYAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CXAC_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CXAC_01.wav
+			AnimClip arm1\ARM1_CXAC_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CCAG_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CCAG_01.wav
+			AnimClip arm1\ARM1_CCAG_01.yclip
+			Events
+			{
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 14226
+					Flags 0x00000000
+				}
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 52626
+					Flags 0x00000000
+				}
+			}
+			UNKNOWN_23097A2B
+			{
+				Item
+				{
+					_f0 1047450465
+					_f4 0
+					_f8 0.00000000
+					_fC 0.64171870
+					_f10 0.90037940
+					_f14 0.80000000
+					_f18 0.25000000
+					_f1C 0.13376420
+					_f20 1
+				}
+				Item
+				{
+					_f0 4148904455
+					_f4 49557
+					_f8 0.00000000
+					_fC 1.00000000
+					_f10 0.73500000
+					_f14 0.85000000
+					_f18 0.48072560
+					_f1C 0.17687070
+					_f20 1
+				}
+				Item
+				{
+					_f0 964801060
+					_f4 75424
+					_f8 0.00000000
+					_fC 1.00000000
+					_f10 0.90519720
+					_f14 0.80000000
+					_f18 0.48820860
+					_f1C 0.50000000
+					_f20 1
+				}
+			}
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BYAC_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BYAC_01.wav
+			AnimClip arm1\ARM1_BYAC_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DZAA_01
+		{
+			Compression ADPCM
+			Headroom 241
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DZAA_01.wav
+			AnimClip arm1\ARM1_DZAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DCAA_01
+		{
+			Compression ADPCM
+			Headroom -140
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DCAA_01.wav
+			AnimClip arm1\ARM1_DCAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BQAA_01
+		{
+			Compression ADPCM
+			Headroom -154
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BQAA_01.wav
+			AnimClip arm1\ARM1_BQAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CSAA_01
+		{
+			Compression ADPCM
+			Headroom -140
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CSAA_01.wav
+			AnimClip arm1\ARM1_CSAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DGAA_05
+		{
+			Compression ADPCM
+			Headroom -147
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DGAA_05.wav
+			AnimClip arm1\ARM1_DGAA_05.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BVAC_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BVAC_01.wav
+			AnimClip arm1\ARM1_BVAC_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DCAC_01
+		{
+			Compression ADPCM
+			Headroom -131
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DCAC_01.wav
+			AnimClip arm1\ARM1_DCAC_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BIAA_03
+		{
+			Compression ADPCM
+			Headroom -144
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BIAA_03.wav
+			AnimClip arm1\ARM1_BIAA_03.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_AGAD_01
+		{
+			Compression ADPCM
+			Headroom 44
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_AGAD_01.wav
+			AnimClip arm1\ARM1_AGAD_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_DOAC_01
+		{
+			Compression ADPCM
+			Headroom -161
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_DOAC_01.wav
+			AnimClip arm1\ARM1_DOAC_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BHAA_03
+		{
+			Compression ADPCM
+			Headroom -144
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BHAA_03.wav
+			AnimClip arm1\ARM1_BHAA_03.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_CWAD_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_CWAD_01.wav
+			AnimClip arm1\ARM1_CWAD_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BFAA_05
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BFAA_05.wav
+			AnimClip arm1\ARM1_BFAA_05.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BGAA_03
+		{
+			Compression ADPCM
+			Headroom -168
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BGAA_03.wav
+			AnimClip arm1\ARM1_BGAA_03.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_BMAA_02
+		{
+			Compression ADPCM
+			Headroom 110
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_BMAA_02.wav
+			AnimClip arm1\ARM1_BMAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ARM1_AEAA_01
+		{
+			Compression ADPCM
+			Headroom -70
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave arm1\ARM1_AEAA_01.wav
+			AnimClip arm1\ARM1_AEAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+	}
+}

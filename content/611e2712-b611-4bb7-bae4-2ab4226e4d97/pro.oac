@@ -1,0 +1,6124 @@
+Version 1 11
+{
+	IsStream False
+	DescriptorsInOrder True
+	Entries
+	{
+		WaveTrack PRO_DXAA_02
+		{
+			Compression ADPCM
+			Headroom -154
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DXAA_02.wav
+			AnimClip pro\PRO_DXAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_CDAC_01
+		{
+			Compression ADPCM
+			Headroom 38
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_CDAC_01.wav
+			AnimClip pro\PRO_CDAC_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DVAA_01
+		{
+			Compression ADPCM
+			Headroom -141
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DVAA_01.wav
+			AnimClip pro\PRO_DVAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EXAA_04
+		{
+			Compression ADPCM
+			Headroom -17
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EXAA_04.wav
+			AnimClip pro\PRO_EXAA_04.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FYAA_02
+		{
+			Compression ADPCM
+			Headroom -129
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FYAA_02.wav
+			AnimClip pro\PRO_FYAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EAAA_01
+		{
+			Compression ADPCM
+			Headroom -39
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EAAA_01.wav
+			AnimClip pro\PRO_EAAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FHAB_01
+		{
+			Compression ADPCM
+			Headroom 161
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FHAB_01.wav
+			AnimClip pro\PRO_FHAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FMAA_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FMAA_01.wav
+			AnimClip pro\PRO_FMAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FQAA_02
+		{
+			Compression ADPCM
+			Headroom -190
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FQAA_02.wav
+			AnimClip pro\PRO_FQAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BZAD_01
+		{
+			Compression ADPCM
+			Headroom -187
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BZAD_01.wav
+			AnimClip pro\PRO_BZAD_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_ELAA_05
+		{
+			Compression ADPCM
+			Headroom -193
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_ELAA_05.wav
+			AnimClip pro\PRO_ELAA_05.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EIAA_01
+		{
+			Compression ADPCM
+			Headroom 31
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EIAA_01.wav
+			AnimClip pro\PRO_EIAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_GAAA_02
+		{
+			Compression ADPCM
+			Headroom -138
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_GAAA_02.wav
+			AnimClip pro\PRO_GAAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BTAF_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BTAF_01.wav
+			AnimClip pro\PRO_BTAF_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BRAB_01
+		{
+			Compression ADPCM
+			Headroom -157
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BRAB_01.wav
+			AnimClip pro\PRO_BRAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FNAA_01
+		{
+			Compression ADPCM
+			Headroom -2
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FNAA_01.wav
+			AnimClip pro\PRO_FNAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FHAE_01
+		{
+			Compression ADPCM
+			Headroom 163
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FHAE_01.wav
+			AnimClip pro\PRO_FHAE_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BUAE_01
+		{
+			Compression ADPCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BUAE_01.wav
+			AnimClip pro\PRO_BUAE_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BJAE_01
+		{
+			Compression ADPCM
+			Headroom -196
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BJAE_01.wav
+			AnimClip pro\PRO_BJAE_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DNAA_01
+		{
+			Compression ADPCM
+			Headroom 0
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DNAA_01.wav
+			AnimClip pro\PRO_DNAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FBAA_02
+		{
+			Compression ADPCM
+			Headroom 596
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FBAA_02.wav
+			AnimClip pro\PRO_FBAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_CXAG_01
+		{
+			Compression ADPCM
+			Headroom -172
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_CXAG_01.wav
+			AnimClip pro\PRO_CXAG_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FLAB_01
+		{
+			Compression ADPCM
+			Headroom 55
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FLAB_01.wav
+			AnimClip pro\PRO_FLAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FLAA_01
+		{
+			Compression ADPCM
+			Headroom 99
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FLAA_01.wav
+			AnimClip pro\PRO_FLAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DFAA_04
+		{
+			Compression ADPCM
+			Headroom -195
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DFAA_04.wav
+			AnimClip pro\PRO_DFAA_04.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BOAH_01
+		{
+			Compression ADPCM
+			Headroom -64
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BOAH_01.wav
+			AnimClip pro\PRO_BOAH_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BTAE_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BTAE_01.wav
+			AnimClip pro\PRO_BTAE_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EJAA_02
+		{
+			Compression ADPCM
+			Headroom 233
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EJAA_02.wav
+			AnimClip pro\PRO_EJAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DRAC_01
+		{
+			Compression ADPCM
+			Headroom 25
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DRAC_01.wav
+			AnimClip pro\PRO_DRAC_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_ERAA_01
+		{
+			Compression ADPCM
+			Headroom 35
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_ERAA_01.wav
+			AnimClip pro\PRO_ERAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B
+			{
+				Item
+				{
+					_f0 526445205
+					_f4 0
+					_f8 0.11075000
+					_fC 0.80483340
+					_f10 1.00000000
+					_f14 0.75000000
+					_f18 0.25000000
+					_f1C 0.22402080
+					_f20 1
+				}
+				Item
+				{
+					_f0 2022345405
+					_f4 17849
+					_f8 0.00000000
+					_fC 1.00000000
+					_f10 0.74145690
+					_f14 1.00000000
+					_f18 0.41041670
+					_f1C 0.50000000
+					_f20 1
+				}
+			}
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_AKAB_01
+		{
+			Compression ADPCM
+			Headroom -170
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_AKAB_01.wav
+			AnimClip pro\PRO_AKAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BUAA_01
+		{
+			Compression ADPCM
+			Headroom -184
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BUAA_01.wav
+			AnimClip pro\PRO_BUAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EYAA_02
+		{
+			Compression ADPCM
+			Headroom -72
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EYAA_02.wav
+			AnimClip pro\PRO_EYAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_ELAA_08
+		{
+			Compression ADPCM
+			Headroom -165
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_ELAA_08.wav
+			AnimClip pro\PRO_ELAA_08.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DMAA_01
+		{
+			Compression ADPCM
+			Headroom -37
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DMAA_01.wav
+			AnimClip pro\PRO_DMAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EWAA_01
+		{
+			Compression ADPCM
+			Headroom 24
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EWAA_01.wav
+			AnimClip pro\PRO_EWAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B
+			{
+				Item
+				{
+					_f0 1014212772
+					_f4 0
+					_f8 0.00000000
+					_fC 1.00000000
+					_f10 1.00000000
+					_f14 1.00000000
+					_f18 0.25000000
+					_f1C 0.50000000
+					_f20 1
+				}
+			}
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BZAB_01
+		{
+			Compression ADPCM
+			Headroom 16
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BZAB_01.wav
+			AnimClip pro\PRO_BZAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EVAA_02
+		{
+			Compression ADPCM
+			Headroom 6
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EVAA_02.wav
+			AnimClip pro\PRO_EVAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EYAA_04
+		{
+			Compression ADPCM
+			Headroom -34
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EYAA_04.wav
+			AnimClip pro\PRO_EYAA_04.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BTAC_01
+		{
+			Compression ADPCM
+			Headroom -153
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BTAC_01.wav
+			AnimClip pro\PRO_BTAC_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DTAA_06
+		{
+			Compression ADPCM
+			Headroom -54
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DTAA_06.wav
+			AnimClip pro\PRO_DTAA_06.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FDAA_01
+		{
+			Compression ADPCM
+			Headroom 50
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FDAA_01.wav
+			AnimClip pro\PRO_FDAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_CDAA_01
+		{
+			Compression ADPCM
+			Headroom 18
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_CDAA_01.wav
+			AnimClip pro\PRO_CDAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BSAA_04
+		{
+			Compression ADPCM
+			Headroom -190
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BSAA_04.wav
+			AnimClip pro\PRO_BSAA_04.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FCAA_01
+		{
+			Compression ADPCM
+			Headroom -9
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FCAA_01.wav
+			AnimClip pro\PRO_FCAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FRAA_02
+		{
+			Compression ADPCM
+			Headroom -190
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FRAA_02.wav
+			AnimClip pro\PRO_FRAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BOAC_01
+		{
+			Compression ADPCM
+			Headroom -190
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BOAC_01.wav
+			AnimClip pro\PRO_BOAC_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DPAB_01
+		{
+			Compression ADPCM
+			Headroom 3
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DPAB_01.wav
+			AnimClip pro\PRO_DPAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EVAA_01
+		{
+			Compression ADPCM
+			Headroom 20
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EVAA_01.wav
+			AnimClip pro\PRO_EVAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EUAB_01
+		{
+			Compression ADPCM
+			Headroom -130
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EUAB_01.wav
+			AnimClip pro\PRO_EUAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FPAA_02
+		{
+			Compression ADPCM
+			Headroom -141
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FPAA_02.wav
+			AnimClip pro\PRO_FPAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FZAA_03
+		{
+			Compression ADPCM
+			Headroom -190
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FZAA_03.wav
+			AnimClip pro\PRO_FZAA_03.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DMAA_05
+		{
+			Compression ADPCM
+			Headroom 22
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DMAA_05.wav
+			AnimClip pro\PRO_DMAA_05.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_ELAA_03
+		{
+			Compression ADPCM
+			Headroom -186
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_ELAA_03.wav
+			AnimClip pro\PRO_ELAA_03.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BOAE_01
+		{
+			Compression ADPCM
+			Headroom -194
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BOAE_01.wav
+			AnimClip pro\PRO_BOAE_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DDAA_01
+		{
+			Compression ADPCM
+			Headroom -157
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DDAA_01.wav
+			AnimClip pro\PRO_DDAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FGAA_01
+		{
+			Compression ADPCM
+			Headroom 884
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FGAA_01.wav
+			AnimClip pro\PRO_FGAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_ETAB_01
+		{
+			Compression ADPCM
+			Headroom -123
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_ETAB_01.wav
+			AnimClip pro\PRO_ETAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FHAD_01
+		{
+			Compression ADPCM
+			Headroom 53
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FHAD_01.wav
+			AnimClip pro\PRO_FHAD_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_CXAE_01
+		{
+			Compression ADPCM
+			Headroom -199
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_CXAE_01.wav
+			AnimClip pro\PRO_CXAE_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EOAA_05
+		{
+			Compression ADPCM
+			Headroom 96
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EOAA_05.wav
+			AnimClip pro\PRO_EOAA_05.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_CYAA_02
+		{
+			Compression ADPCM
+			Headroom -16
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_CYAA_02.wav
+			AnimClip pro\PRO_CYAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B
+			{
+				Item
+				{
+					_f0 1160513276
+					_f4 0
+					_f8 0.00000000
+					_fC 0.81308390
+					_f10 1.00000000
+					_f14 1.00000000
+					_f18 0.25000000
+					_f1C 0.50000000
+					_f20 1
+				}
+				Item
+				{
+					_f0 3638724710
+					_f4 32880
+					_f8 0.14399870
+					_fC 1.00000000
+					_f10 0.86398070
+					_f14 1.00000000
+					_f18 0.25000000
+					_f1C 0.50000000
+					_f20 1
+				}
+			}
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EMAA_06
+		{
+			Compression ADPCM
+			Headroom 219
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EMAA_06.wav
+			AnimClip pro\PRO_EMAA_06.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FLAD_01
+		{
+			Compression ADPCM
+			Headroom 8
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FLAD_01.wav
+			AnimClip pro\PRO_FLAD_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DQAB_01
+		{
+			Compression ADPCM
+			Headroom 14
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DQAB_01.wav
+			AnimClip pro\PRO_DQAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EGAA_05
+		{
+			Compression ADPCM
+			Headroom -21
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EGAA_05.wav
+			AnimClip pro\PRO_EGAA_05.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_CYAA_03
+		{
+			Compression ADPCM
+			Headroom -2
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_CYAA_03.wav
+			AnimClip pro\PRO_CYAA_03.yclip
+			Events null
+			UNKNOWN_23097A2B
+			{
+				Item
+				{
+					_f0 148213052
+					_f4 0
+					_f8 0.00000000
+					_fC 1.00000000
+					_f10 0.85752880
+					_f14 1.00000000
+					_f18 0.25000000
+					_f1C 0.50000000
+					_f20 1
+				}
+			}
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FJAA_01
+		{
+			Compression ADPCM
+			Headroom 38
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FJAA_01.wav
+			AnimClip pro\PRO_FJAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FSAA_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FSAA_01.wav
+			AnimClip pro\PRO_FSAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FOAA_03
+		{
+			Compression ADPCM
+			Headroom -138
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FOAA_03.wav
+			AnimClip pro\PRO_FOAA_03.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_ELAA_06
+		{
+			Compression ADPCM
+			Headroom -175
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_ELAA_06.wav
+			AnimClip pro\PRO_ELAA_06.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_CDAB_01
+		{
+			Compression ADPCM
+			Headroom -120
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_CDAB_01.wav
+			AnimClip pro\PRO_CDAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BNAC_01
+		{
+			Compression ADPCM
+			Headroom -142
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BNAC_01.wav
+			AnimClip pro\PRO_BNAC_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DAAA_03
+		{
+			Compression ADPCM
+			Headroom -141
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DAAA_03.wav
+			AnimClip pro\PRO_DAAA_03.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_ASAC_01
+		{
+			Compression ADPCM
+			Headroom -128
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_ASAC_01.wav
+			AnimClip pro\PRO_ASAC_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_ENAA_06
+		{
+			Compression ADPCM
+			Headroom 8
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_ENAA_06.wav
+			AnimClip pro\PRO_ENAA_06.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FBAA_06
+		{
+			Compression ADPCM
+			Headroom 565
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FBAA_06.wav
+			AnimClip pro\PRO_FBAA_06.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DOAB_01
+		{
+			Compression ADPCM
+			Headroom -17
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DOAB_01.wav
+			AnimClip pro\PRO_DOAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_AKAA_01
+		{
+			Compression ADPCM
+			Headroom -111
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_AKAA_01.wav
+			AnimClip pro\PRO_AKAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DZAA_01
+		{
+			Compression ADPCM
+			Headroom -80
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DZAA_01.wav
+			AnimClip pro\PRO_DZAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FHAG_01
+		{
+			Compression ADPCM
+			Headroom 97
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FHAG_01.wav
+			AnimClip pro\PRO_FHAG_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BSAA_03
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BSAA_03.wav
+			AnimClip pro\PRO_BSAA_03.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DSAE_01
+		{
+			Compression ADPCM
+			Headroom 27
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DSAE_01.wav
+			AnimClip pro\PRO_DSAE_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EZAA_03
+		{
+			Compression ADPCM
+			Headroom 225
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EZAA_03.wav
+			AnimClip pro\PRO_EZAA_03.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EVAA_04
+		{
+			Compression ADPCM
+			Headroom 2
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EVAA_04.wav
+			AnimClip pro\PRO_EVAA_04.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EMAA_07
+		{
+			Compression ADPCM
+			Headroom 195
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EMAA_07.wav
+			AnimClip pro\PRO_EMAA_07.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FBAA_08
+		{
+			Compression ADPCM
+			Headroom 567
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FBAA_08.wav
+			AnimClip pro\PRO_FBAA_08.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EOAA_02
+		{
+			Compression ADPCM
+			Headroom -62
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EOAA_02.wav
+			AnimClip pro\PRO_EOAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FJAB_01
+		{
+			Compression ADPCM
+			Headroom 7
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FJAB_01.wav
+			AnimClip pro\PRO_FJAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EWAA_03
+		{
+			Compression ADPCM
+			Headroom 37
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EWAA_03.wav
+			AnimClip pro\PRO_EWAA_03.yclip
+			Events null
+			UNKNOWN_23097A2B
+			{
+				Item
+				{
+					_f0 2311152473
+					_f4 0
+					_f8 0.00000000
+					_fC 1.00000000
+					_f10 1.00000000
+					_f14 1.00000000
+					_f18 0.25000000
+					_f1C 0.50000000
+					_f20 1
+				}
+			}
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_GBAA_02
+		{
+			Compression ADPCM
+			Headroom -190
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_GBAA_02.wav
+			AnimClip pro\PRO_GBAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DMAA_03
+		{
+			Compression ADPCM
+			Headroom -21
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DMAA_03.wav
+			AnimClip pro\PRO_DMAA_03.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BOAD_01
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BOAD_01.wav
+			AnimClip pro\PRO_BOAD_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FKAA_01
+		{
+			Compression ADPCM
+			Headroom 269
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FKAA_01.wav
+			AnimClip pro\PRO_FKAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EHAB_01
+		{
+			Compression ADPCM
+			Headroom 100
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EHAB_01.wav
+			AnimClip pro\PRO_EHAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DZAB_01
+		{
+			Compression ADPCM
+			Headroom 51
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DZAB_01.wav
+			AnimClip pro\PRO_DZAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_ENAA_01
+		{
+			Compression ADPCM
+			Headroom 60
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_ENAA_01.wav
+			AnimClip pro\PRO_ENAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DGAA_03
+		{
+			Compression ADPCM
+			Headroom -110
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DGAA_03.wav
+			AnimClip pro\PRO_DGAA_03.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EFAB_01
+		{
+			Compression ADPCM
+			Headroom -62
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EFAB_01.wav
+			AnimClip pro\PRO_EFAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_COAA_03
+		{
+			Compression ADPCM
+			Headroom 36
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_COAA_03.wav
+			AnimClip pro\PRO_COAA_03.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EGAA_02
+		{
+			Compression ADPCM
+			Headroom 26
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EGAA_02.wav
+			AnimClip pro\PRO_EGAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EBAA_01
+		{
+			Compression ADPCM
+			Headroom -33
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EBAA_01.wav
+			AnimClip pro\PRO_EBAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EUAA_01
+		{
+			Compression ADPCM
+			Headroom -13
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EUAA_01.wav
+			AnimClip pro\PRO_EUAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BNAB_01
+		{
+			Compression ADPCM
+			Headroom -4
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BNAB_01.wav
+			AnimClip pro\PRO_BNAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BPAA_02
+		{
+			Compression ADPCM
+			Headroom -117
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BPAA_02.wav
+			AnimClip pro\PRO_BPAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FAAA_01
+		{
+			Compression ADPCM
+			Headroom -87
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FAAA_01.wav
+			AnimClip pro\PRO_FAAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FPAA_01
+		{
+			Compression ADPCM
+			Headroom -141
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FPAA_01.wav
+			AnimClip pro\PRO_FPAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_ENAA_08
+		{
+			Compression ADPCM
+			Headroom 46
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_ENAA_08.wav
+			AnimClip pro\PRO_ENAA_08.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FOAA_01
+		{
+			Compression ADPCM
+			Headroom -139
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FOAA_01.wav
+			AnimClip pro\PRO_FOAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FBAA_05
+		{
+			Compression ADPCM
+			Headroom 567
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FBAA_05.wav
+			AnimClip pro\PRO_FBAA_05.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EXAA_01
+		{
+			Compression ADPCM
+			Headroom -92
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EXAA_01.wav
+			AnimClip pro\PRO_EXAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FVAA_02
+		{
+			Compression ADPCM
+			Headroom -190
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FVAA_02.wav
+			AnimClip pro\PRO_FVAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DFAA_02
+		{
+			Compression ADPCM
+			Headroom -190
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DFAA_02.wav
+			AnimClip pro\PRO_DFAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BOAA_01
+		{
+			Compression ADPCM
+			Headroom -198
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BOAA_01.wav
+			AnimClip pro\PRO_BOAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_CXAC_01
+		{
+			Compression ADPCM
+			Headroom -188
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_CXAC_01.wav
+			AnimClip pro\PRO_CXAC_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BRAA2_01
+		{
+			Compression ADPCM
+			Headroom -158
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BRAA2_01.wav
+			AnimClip pro\PRO_BRAA2_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EKAA_01
+		{
+			Compression ADPCM
+			Headroom -45
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EKAA_01.wav
+			AnimClip pro\PRO_EKAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DXAA_01
+		{
+			Compression ADPCM
+			Headroom -152
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DXAA_01.wav
+			AnimClip pro\PRO_DXAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FNAA_02
+		{
+			Compression ADPCM
+			Headroom -60
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FNAA_02.wav
+			AnimClip pro\PRO_FNAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FUAA_01
+		{
+			Compression ADPCM
+			Headroom -190
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FUAA_01.wav
+			AnimClip pro\PRO_FUAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DRAA_01
+		{
+			Compression ADPCM
+			Headroom 31
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DRAA_01.wav
+			AnimClip pro\PRO_DRAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_CXAI_01
+		{
+			Compression ADPCM
+			Headroom -199
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_CXAI_01.wav
+			AnimClip pro\PRO_CXAI_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_CXAN_01
+		{
+			Compression ADPCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_CXAN_01.wav
+			AnimClip pro\PRO_CXAN_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DUAB_01
+		{
+			Compression ADPCM
+			Headroom -139
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DUAB_01.wav
+			AnimClip pro\PRO_DUAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FKAC_01
+		{
+			Compression ADPCM
+			Headroom 121
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FKAC_01.wav
+			AnimClip pro\PRO_FKAC_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DQAA_01
+		{
+			Compression ADPCM
+			Headroom -147
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DQAA_01.wav
+			AnimClip pro\PRO_DQAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EZAA_01
+		{
+			Compression ADPCM
+			Headroom 242
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EZAA_01.wav
+			AnimClip pro\PRO_EZAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FVAA_01
+		{
+			Compression ADPCM
+			Headroom -190
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FVAA_01.wav
+			AnimClip pro\PRO_FVAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EAAC_01
+		{
+			Compression ADPCM
+			Headroom -159
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EAAC_01.wav
+			AnimClip pro\PRO_EAAC_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DYAA_02
+		{
+			Compression ADPCM
+			Headroom -154
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DYAA_02.wav
+			AnimClip pro\PRO_DYAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DSAD_01
+		{
+			Compression ADPCM
+			Headroom -150
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DSAD_01.wav
+			AnimClip pro\PRO_DSAD_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_CXAO_01
+		{
+			Compression ADPCM
+			Headroom -199
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_CXAO_01.wav
+			AnimClip pro\PRO_CXAO_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_ESAB_01
+		{
+			Compression ADPCM
+			Headroom 237
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_ESAB_01.wav
+			AnimClip pro\PRO_ESAB_01.yclip
+			Events
+			{
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 25452
+					Flags 0x00000000
+				}
+			}
+			UNKNOWN_23097A2B
+			{
+				Item
+				{
+					_f0 526445205
+					_f4 0
+					_f8 0.10033330
+					_fC 1.00000000
+					_f10 1.00000000
+					_f14 1.00000000
+					_f18 0.25000000
+					_f1C 0.35552080
+					_f20 1
+				}
+				Item
+				{
+					_f0 2322755231
+					_f4 19164
+					_f8 0.11096940
+					_fC 1.00000000
+					_f10 1.02000000
+					_f14 1.00000000
+					_f18 0.52500000
+					_f1C 0.50000000
+					_f20 1
+				}
+			}
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EWAA_05
+		{
+			Compression ADPCM
+			Headroom -36
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EWAA_05.wav
+			AnimClip pro\PRO_EWAA_05.yclip
+			Events
+			{
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 16677
+					Flags 0x00000000
+				}
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 34277
+					Flags 0x00000000
+				}
+			}
+			UNKNOWN_23097A2B
+			{
+				Item
+				{
+					_f0 1160513276
+					_f4 0
+					_f8 0.00000000
+					_fC 0.74513610
+					_f10 1.00000000
+					_f14 1.00000000
+					_f18 0.25000000
+					_f1C 0.50000000
+					_f20 1
+				}
+				Item
+				{
+					_f0 2551860640
+					_f4 26355
+					_f8 0.20408160
+					_fC 1.00000000
+					_f10 0.74681630
+					_f14 1.00000000
+					_f18 0.25000000
+					_f1C 0.50000000
+					_f20 1
+				}
+			}
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_CXAH_01
+		{
+			Compression ADPCM
+			Headroom -197
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_CXAH_01.wav
+			AnimClip pro\PRO_CXAH_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_ESAE_01
+		{
+			Compression ADPCM
+			Headroom 222
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_ESAE_01.wav
+			AnimClip pro\PRO_ESAE_01.yclip
+			Events
+			{
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 28557
+					Flags 0x00000000
+				}
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 57147
+					Flags 0x00000000
+				}
+			}
+			UNKNOWN_23097A2B
+			{
+				Item
+				{
+					_f0 964801060
+					_f4 0
+					_f8 0.00000000
+					_fC 1.00000000
+					_f10 1.03896100
+					_f14 0.75000000
+					_f18 0.25000000
+					_f1C 0.24375000
+					_f20 1
+				}
+				Item
+				{
+					_f0 1014212772
+					_f4 29749
+					_f8 0.04820766
+					_fC 1.00000000
+					_f10 0.80762430
+					_f14 1.00000000
+					_f18 0.53752080
+					_f1C 0.50000000
+					_f20 1
+				}
+			}
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EQAD_01
+		{
+			Compression ADPCM
+			Headroom -79
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EQAD_01.wav
+			AnimClip pro\PRO_EQAD_01.yclip
+			Events null
+			UNKNOWN_23097A2B
+			{
+				Item
+				{
+					_f0 3472405925
+					_f4 0
+					_f8 0.00000000
+					_fC 1.00000000
+					_f10 1.05945600
+					_f14 1.00000000
+					_f18 0.25000000
+					_f1C 0.50000000
+					_f20 1
+				}
+			}
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_COAA_05
+		{
+			Compression ADPCM
+			Headroom 32
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_COAA_05.wav
+			AnimClip pro\PRO_COAA_05.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DSAF_01
+		{
+			Compression ADPCM
+			Headroom -151
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DSAF_01.wav
+			AnimClip pro\PRO_DSAF_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EQAC_01
+		{
+			Compression ADPCM
+			Headroom -7
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EQAC_01.wav
+			AnimClip pro\PRO_EQAC_01.yclip
+			Events
+			{
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 13717
+					Flags 0x00000000
+				}
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 46188
+					Flags 0x00000000
+				}
+			}
+			UNKNOWN_23097A2B
+			{
+				Item
+				{
+					_f0 2022345405
+					_f4 0
+					_f8 0.00000000
+					_fC 1.00000000
+					_f10 0.72348950
+					_f14 1.00000000
+					_f18 0.25000000
+					_f1C 0.11666670
+					_f20 1
+				}
+				Item
+				{
+					_f0 964801060
+					_f4 31266
+					_f8 0.00000000
+					_fC 1.00000000
+					_f10 0.97826090
+					_f14 1.00000000
+					_f18 0.32083330
+					_f1C 0.50000000
+					_f20 1
+				}
+			}
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_ENAA_02
+		{
+			Compression ADPCM
+			Headroom -33
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_ENAA_02.wav
+			AnimClip pro\PRO_ENAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FBAA_03
+		{
+			Compression ADPCM
+			Headroom 578
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FBAA_03.wav
+			AnimClip pro\PRO_FBAA_03.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DTAA_04
+		{
+			Compression ADPCM
+			Headroom -88
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DTAA_04.wav
+			AnimClip pro\PRO_DTAA_04.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FTAA_02
+		{
+			Compression ADPCM
+			Headroom -190
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FTAA_02.wav
+			AnimClip pro\PRO_FTAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EMAA_02
+		{
+			Compression ADPCM
+			Headroom 95
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EMAA_02.wav
+			AnimClip pro\PRO_EMAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_CXAM_01
+		{
+			Compression ADPCM
+			Headroom -192
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_CXAM_01.wav
+			AnimClip pro\PRO_CXAM_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EGAA_01
+		{
+			Compression ADPCM
+			Headroom -28
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EGAA_01.wav
+			AnimClip pro\PRO_EGAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BRAC_01
+		{
+			Compression ADPCM
+			Headroom 60
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BRAC_01.wav
+			AnimClip pro\PRO_BRAC_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EBAA_03
+		{
+			Compression ADPCM
+			Headroom -93
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EBAA_03.wav
+			AnimClip pro\PRO_EBAA_03.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BTAI_01
+		{
+			Compression ADPCM
+			Headroom -154
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BTAI_01.wav
+			AnimClip pro\PRO_BTAI_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FSAA_02
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FSAA_02.wav
+			AnimClip pro\PRO_FSAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BJAC_01
+		{
+			Compression ADPCM
+			Headroom -196
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BJAC_01.wav
+			AnimClip pro\PRO_BJAC_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BZAA_01
+		{
+			Compression ADPCM
+			Headroom -172
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BZAA_01.wav
+			AnimClip pro\PRO_BZAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EUAC_01
+		{
+			Compression ADPCM
+			Headroom 151
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EUAC_01.wav
+			AnimClip pro\PRO_EUAC_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_ENAA_07
+		{
+			Compression ADPCM
+			Headroom 9
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_ENAA_07.wav
+			AnimClip pro\PRO_ENAA_07.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BOAG_01
+		{
+			Compression ADPCM
+			Headroom -194
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BOAG_01.wav
+			AnimClip pro\PRO_BOAG_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EXAA_03
+		{
+			Compression ADPCM
+			Headroom -73
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EXAA_03.wav
+			AnimClip pro\PRO_EXAA_03.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BRAA1_01
+		{
+			Compression ADPCM
+			Headroom -155
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BRAA1_01.wav
+			AnimClip pro\PRO_BRAA1_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DRAF_01
+		{
+			Compression ADPCM
+			Headroom 32
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DRAF_01.wav
+			AnimClip pro\PRO_DRAF_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BUAC_01
+		{
+			Compression ADPCM
+			Headroom 82
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BUAC_01.wav
+			AnimClip pro\PRO_BUAC_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FZAA_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FZAA_01.wav
+			AnimClip pro\PRO_FZAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EYAA_01
+		{
+			Compression ADPCM
+			Headroom 15
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EYAA_01.wav
+			AnimClip pro\PRO_EYAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DUAA_01
+		{
+			Compression ADPCM
+			Headroom -151
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DUAA_01.wav
+			AnimClip pro\PRO_DUAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FHAI_01
+		{
+			Compression ADPCM
+			Headroom 157
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FHAI_01.wav
+			AnimClip pro\PRO_FHAI_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FBAA_01
+		{
+			Compression ADPCM
+			Headroom 579
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FBAA_01.wav
+			AnimClip pro\PRO_FBAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_CXAF_01
+		{
+			Compression ADPCM
+			Headroom 15
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_CXAF_01.wav
+			AnimClip pro\PRO_CXAF_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FMAA_02
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FMAA_02.wav
+			AnimClip pro\PRO_FMAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_ENAA_04
+		{
+			Compression ADPCM
+			Headroom 17
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_ENAA_04.wav
+			AnimClip pro\PRO_ENAA_04.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DGAA_04
+		{
+			Compression ADPCM
+			Headroom -151
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DGAA_04.wav
+			AnimClip pro\PRO_DGAA_04.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BTAH_01
+		{
+			Compression ADPCM
+			Headroom -153
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BTAH_01.wav
+			AnimClip pro\PRO_BTAH_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DTAA_01
+		{
+			Compression ADPCM
+			Headroom -50
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DTAA_01.wav
+			AnimClip pro\PRO_DTAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EVAA_03
+		{
+			Compression ADPCM
+			Headroom -11
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EVAA_03.wav
+			AnimClip pro\PRO_EVAA_03.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_COAA_07
+		{
+			Compression ADPCM
+			Headroom 33
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_COAA_07.wav
+			AnimClip pro\PRO_COAA_07.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BNAD_01
+		{
+			Compression ADPCM
+			Headroom -198
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BNAD_01.wav
+			AnimClip pro\PRO_BNAD_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BJAA_01
+		{
+			Compression ADPCM
+			Headroom -197
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BJAA_01.wav
+			AnimClip pro\PRO_BJAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_ELAA_07
+		{
+			Compression ADPCM
+			Headroom -188
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_ELAA_07.wav
+			AnimClip pro\PRO_ELAA_07.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EYAA_03
+		{
+			Compression ADPCM
+			Headroom 36
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EYAA_03.wav
+			AnimClip pro\PRO_EYAA_03.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FCAA_02
+		{
+			Compression ADPCM
+			Headroom -68
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FCAA_02.wav
+			AnimClip pro\PRO_FCAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EQAE_01
+		{
+			Compression ADPCM
+			Headroom 160
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EQAE_01.wav
+			AnimClip pro\PRO_EQAE_01.yclip
+			Events
+			{
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 16374
+					Flags 0x00000000
+				}
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 52692
+					Flags 0x00000000
+				}
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 103820
+					Flags 0x00000000
+				}
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 110443
+					Flags 0x00000000
+				}
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 149664
+					Flags 0x00000000
+				}
+			}
+			UNKNOWN_23097A2B
+			{
+				Item
+				{
+					_f0 1369268084
+					_f4 0
+					_f8 0.00000000
+					_fC 1.00000000
+					_f10 0.93042490
+					_f14 1.00000000
+					_f18 0.25000000
+					_f1C 0.19114580
+					_f20 1
+				}
+				Item
+				{
+					_f0 1047450465
+					_f4 40989
+					_f8 0.00000000
+					_fC 0.49350810
+					_f10 1.00000000
+					_f14 1.00000000
+					_f18 0.34218750
+					_f1C 0.50000000
+					_f20 1
+				}
+				Item
+				{
+					_f0 855168935
+					_f4 100800
+					_f8 0.00000000
+					_fC 1.00000000
+					_f10 1.00000000
+					_f14 1.00000000
+					_f18 0.25000000
+					_f1C 0.19375000
+					_f20 1
+				}
+				Item
+				{
+					_f0 2322755231
+					_f4 136133
+					_f8 0.00000000
+					_fC 1.00000000
+					_f10 1.00000000
+					_f14 1.00000000
+					_f18 0.40625000
+					_f1C 0.50000000
+					_f20 1
+				}
+			}
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FYAA_01
+		{
+			Compression ADPCM
+			Headroom 67
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FYAA_01.wav
+			AnimClip pro\PRO_FYAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BPAA_03
+		{
+			Compression ADPCM
+			Headroom -118
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BPAA_03.wav
+			AnimClip pro\PRO_BPAA_03.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DSAC_01
+		{
+			Compression ADPCM
+			Headroom 32
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DSAC_01.wav
+			AnimClip pro\PRO_DSAC_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BOAB_01
+		{
+			Compression ADPCM
+			Headroom -196
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BOAB_01.wav
+			AnimClip pro\PRO_BOAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FRAA_03
+		{
+			Compression ADPCM
+			Headroom -190
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FRAA_03.wav
+			AnimClip pro\PRO_FRAA_03.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FIAA_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FIAA_01.wav
+			AnimClip pro\PRO_FIAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BTAA_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BTAA_01.wav
+			AnimClip pro\PRO_BTAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FXAA_02
+		{
+			Compression ADPCM
+			Headroom -141
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FXAA_02.wav
+			AnimClip pro\PRO_FXAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EEAA_01
+		{
+			Compression ADPCM
+			Headroom -58
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EEAA_01.wav
+			AnimClip pro\PRO_EEAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BTAB_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BTAB_01.wav
+			AnimClip pro\PRO_BTAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DWAA_02
+		{
+			Compression ADPCM
+			Headroom 92
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DWAA_02.wav
+			AnimClip pro\PRO_DWAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FQAA_01
+		{
+			Compression ADPCM
+			Headroom -190
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FQAA_01.wav
+			AnimClip pro\PRO_FQAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FWAA_03
+		{
+			Compression ADPCM
+			Headroom -141
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FWAA_03.wav
+			AnimClip pro\PRO_FWAA_03.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_ECAA_01
+		{
+			Compression ADPCM
+			Headroom -44
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_ECAA_01.wav
+			AnimClip pro\PRO_ECAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EMAA_05
+		{
+			Compression ADPCM
+			Headroom 77
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EMAA_05.wav
+			AnimClip pro\PRO_EMAA_05.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BJAG_01
+		{
+			Compression ADPCM
+			Headroom -120
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BJAG_01.wav
+			AnimClip pro\PRO_BJAG_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BJAF_01
+		{
+			Compression ADPCM
+			Headroom -160
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BJAF_01.wav
+			AnimClip pro\PRO_BJAF_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_AKAC_01
+		{
+			Compression ADPCM
+			Headroom -194
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_AKAC_01.wav
+			AnimClip pro\PRO_AKAC_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_CXAK_01
+		{
+			Compression ADPCM
+			Headroom -199
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_CXAK_01.wav
+			AnimClip pro\PRO_CXAK_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_ERAB_01
+		{
+			Compression ADPCM
+			Headroom 200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_ERAB_01.wav
+			AnimClip pro\PRO_ERAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B
+			{
+				Item
+				{
+					_f0 855168935
+					_f4 0
+					_f8 0.00000000
+					_fC 1.00000000
+					_f10 1.02943900
+					_f14 1.00000000
+					_f18 0.25000000
+					_f1C 0.27291670
+					_f20 1
+				}
+				Item
+				{
+					_f0 2551860640
+					_f4 31226
+					_f8 0.12318240
+					_fC 1.00000000
+					_f10 0.78898920
+					_f14 1.00000000
+					_f18 0.48960420
+					_f1C 0.50000000
+					_f20 1
+				}
+			}
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DRAE_01
+		{
+			Compression ADPCM
+			Headroom 373
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DRAE_01.wav
+			AnimClip pro\PRO_DRAE_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FLAC_01
+		{
+			Compression ADPCM
+			Headroom 22
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FLAC_01.wav
+			AnimClip pro\PRO_FLAC_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EWAA_07
+		{
+			Compression ADPCM
+			Headroom -46
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EWAA_07.wav
+			AnimClip pro\PRO_EWAA_07.yclip
+			Events
+			{
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 12755
+					Flags 0x00000000
+				}
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 28115
+					Flags 0x00000000
+				}
+			}
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DXAA_03
+		{
+			Compression ADPCM
+			Headroom -156
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DXAA_03.wav
+			AnimClip pro\PRO_DXAA_03.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FHAH_01
+		{
+			Compression ADPCM
+			Headroom 439
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FHAH_01.wav
+			AnimClip pro\PRO_FHAH_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DFAA_03
+		{
+			Compression ADPCM
+			Headroom -198
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DFAA_03.wav
+			AnimClip pro\PRO_DFAA_03.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EOAA_04
+		{
+			Compression ADPCM
+			Headroom 24
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EOAA_04.wav
+			AnimClip pro\PRO_EOAA_04.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EGAA_04
+		{
+			Compression ADPCM
+			Headroom -115
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EGAA_04.wav
+			AnimClip pro\PRO_EGAA_04.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FYAA_03
+		{
+			Compression ADPCM
+			Headroom 16
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FYAA_03.wav
+			AnimClip pro\PRO_FYAA_03.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FIAA_02
+		{
+			Compression ADPCM
+			Headroom -157
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FIAA_02.wav
+			AnimClip pro\PRO_FIAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_CXAP_01
+		{
+			Compression ADPCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_CXAP_01.wav
+			AnimClip pro\PRO_CXAP_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DRAG_01
+		{
+			Compression ADPCM
+			Headroom 44
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DRAG_01.wav
+			AnimClip pro\PRO_DRAG_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_CXAR_01
+		{
+			Compression ADPCM
+			Headroom -197
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_CXAR_01.wav
+			AnimClip pro\PRO_CXAR_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_COAA_01
+		{
+			Compression ADPCM
+			Headroom 24
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_COAA_01.wav
+			AnimClip pro\PRO_COAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DTAA_03
+		{
+			Compression ADPCM
+			Headroom -6
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DTAA_03.wav
+			AnimClip pro\PRO_DTAA_03.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DAAA_02
+		{
+			Compression ADPCM
+			Headroom -135
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DAAA_02.wav
+			AnimClip pro\PRO_DAAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BJAH_01
+		{
+			Compression ADPCM
+			Headroom -160
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BJAH_01.wav
+			AnimClip pro\PRO_BJAH_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EDAA_01
+		{
+			Compression ADPCM
+			Headroom -73
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EDAA_01.wav
+			AnimClip pro\PRO_EDAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FHAA_01
+		{
+			Compression ADPCM
+			Headroom 101
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FHAA_01.wav
+			AnimClip pro\PRO_FHAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DGAA_01
+		{
+			Compression ADPCM
+			Headroom -126
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DGAA_01.wav
+			AnimClip pro\PRO_DGAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_CXAS_01
+		{
+			Compression ADPCM
+			Headroom -197
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_CXAS_01.wav
+			AnimClip pro\PRO_CXAS_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BPAA_01
+		{
+			Compression ADPCM
+			Headroom -148
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BPAA_01.wav
+			AnimClip pro\PRO_BPAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_CYAA_05
+		{
+			Compression ADPCM
+			Headroom -52
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_CYAA_05.wav
+			AnimClip pro\PRO_CYAA_05.yclip
+			Events
+			{
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 23980
+					Flags 0x00000000
+				}
+			}
+			UNKNOWN_23097A2B
+			{
+				Item
+				{
+					_f0 3632810603
+					_f4 0
+					_f8 0.00000000
+					_fC 1.00000000
+					_f10 0.88084140
+					_f14 1.00000000
+					_f18 0.25000000
+					_f1C 0.16879820
+					_f20 1
+				}
+				Item
+				{
+					_f0 2645578164
+					_f4 34304
+					_f8 0.16330700
+					_fC 1.00000000
+					_f10 1.00000000
+					_f14 1.00000000
+					_f18 0.25000000
+					_f1C 0.50000000
+					_f20 1
+				}
+			}
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EMAA_03
+		{
+			Compression ADPCM
+			Headroom 83
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EMAA_03.wav
+			AnimClip pro\PRO_EMAA_03.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EZAA_02
+		{
+			Compression ADPCM
+			Headroom 227
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EZAA_02.wav
+			AnimClip pro\PRO_EZAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BSAA_01
+		{
+			Compression ADPCM
+			Headroom -190
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BSAA_01.wav
+			AnimClip pro\PRO_BSAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EVAA_05
+		{
+			Compression ADPCM
+			Headroom -29
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EVAA_05.wav
+			AnimClip pro\PRO_EVAA_05.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BUAB_01
+		{
+			Compression ADPCM
+			Headroom -157
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BUAB_01.wav
+			AnimClip pro\PRO_BUAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DWAA_03
+		{
+			Compression ADPCM
+			Headroom -92
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DWAA_03.wav
+			AnimClip pro\PRO_DWAA_03.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BSAA_02
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BSAA_02.wav
+			AnimClip pro\PRO_BSAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EXAA_05
+		{
+			Compression ADPCM
+			Headroom 18
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EXAA_05.wav
+			AnimClip pro\PRO_EXAA_05.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_CXAJ_01
+		{
+			Compression ADPCM
+			Headroom -198
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_CXAJ_01.wav
+			AnimClip pro\PRO_CXAJ_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_CXAU_01
+		{
+			Compression ADPCM
+			Headroom -148
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_CXAU_01.wav
+			AnimClip pro\PRO_CXAU_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_ELAA_04
+		{
+			Compression ADPCM
+			Headroom -188
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_ELAA_04.wav
+			AnimClip pro\PRO_ELAA_04.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EOAA_01
+		{
+			Compression ADPCM
+			Headroom 29
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EOAA_01.wav
+			AnimClip pro\PRO_EOAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EQAA_01
+		{
+			Compression ADPCM
+			Headroom -98
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EQAA_01.wav
+			AnimClip pro\PRO_EQAA_01.yclip
+			Events
+			{
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 6326
+					Flags 0x00000000
+				}
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 24261
+					Flags 0x00000000
+				}
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 35425
+					Flags 0x00000000
+				}
+			}
+			UNKNOWN_23097A2B
+			{
+				Item
+				{
+					_f0 2022345405
+					_f4 0
+					_f8 0.00000000
+					_fC 1.00000000
+					_f10 0.77885220
+					_f14 1.00000000
+					_f18 0.25000000
+					_f1C 0.27083330
+					_f20 1
+				}
+				Item
+				{
+					_f0 964801060
+					_f4 22600
+					_f8 0.00000000
+					_fC 1.00000000
+					_f10 1.00000000
+					_f14 0.75000000
+					_f18 0.50208340
+					_f1C 0.50000000
+					_f20 1
+				}
+			}
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_ETAA_01
+		{
+			Compression ADPCM
+			Headroom -83
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_ETAA_01.wav
+			AnimClip pro\PRO_ETAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BJAD_01
+		{
+			Compression ADPCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BJAD_01.wav
+			AnimClip pro\PRO_BJAD_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DMAA_04
+		{
+			Compression ADPCM
+			Headroom -44
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DMAA_04.wav
+			AnimClip pro\PRO_DMAA_04.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FDAA_02
+		{
+			Compression ADPCM
+			Headroom -138
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FDAA_02.wav
+			AnimClip pro\PRO_FDAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EYAA_05
+		{
+			Compression ADPCM
+			Headroom -52
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EYAA_05.wav
+			AnimClip pro\PRO_EYAA_05.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FWAA_01
+		{
+			Compression ADPCM
+			Headroom -141
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FWAA_01.wav
+			AnimClip pro\PRO_FWAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EIAB_01
+		{
+			Compression ADPCM
+			Headroom 100
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EIAB_01.wav
+			AnimClip pro\PRO_EIAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_CXAA_01
+		{
+			Compression ADPCM
+			Headroom -161
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_CXAA_01.wav
+			AnimClip pro\PRO_CXAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_ENAA_03
+		{
+			Compression ADPCM
+			Headroom -28
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_ENAA_03.wav
+			AnimClip pro\PRO_ENAA_03.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_CXAD_01
+		{
+			Compression ADPCM
+			Headroom -197
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_CXAD_01.wav
+			AnimClip pro\PRO_CXAD_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FJAD_01
+		{
+			Compression ADPCM
+			Headroom 77
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FJAD_01.wav
+			AnimClip pro\PRO_FJAD_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FUAA_02
+		{
+			Compression ADPCM
+			Headroom -190
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FUAA_02.wav
+			AnimClip pro\PRO_FUAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BTAD_01
+		{
+			Compression ADPCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BTAD_01.wav
+			AnimClip pro\PRO_BTAD_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EGAA_06
+		{
+			Compression ADPCM
+			Headroom -16
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EGAA_06.wav
+			AnimClip pro\PRO_EGAA_06.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DMAA_02
+		{
+			Compression ADPCM
+			Headroom 35
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DMAA_02.wav
+			AnimClip pro\PRO_DMAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EJAA_01
+		{
+			Compression ADPCM
+			Headroom 81
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EJAA_01.wav
+			AnimClip pro\PRO_EJAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BJAB_01
+		{
+			Compression ADPCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BJAB_01.wav
+			AnimClip pro\PRO_BJAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EHAA_01
+		{
+			Compression ADPCM
+			Headroom 29
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EHAA_01.wav
+			AnimClip pro\PRO_EHAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FBAA_07
+		{
+			Compression ADPCM
+			Headroom 575
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FBAA_07.wav
+			AnimClip pro\PRO_FBAA_07.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_COAA_02
+		{
+			Compression ADPCM
+			Headroom 22
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_COAA_02.wav
+			AnimClip pro\PRO_COAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_CYAA_04
+		{
+			Compression ADPCM
+			Headroom 18
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_CYAA_04.wav
+			AnimClip pro\PRO_CYAA_04.yclip
+			Events null
+			UNKNOWN_23097A2B
+			{
+				Item
+				{
+					_f0 1210922354
+					_f4 0
+					_f8 0.00000000
+					_fC 1.00000000
+					_f10 0.59915820
+					_f14 1.00000000
+					_f18 0.25000000
+					_f1C 0.50000000
+					_f20 1
+				}
+			}
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EWAA_02
+		{
+			Compression ADPCM
+			Headroom -1
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EWAA_02.wav
+			AnimClip pro\PRO_EWAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B
+			{
+				Item
+				{
+					_f0 2551860640
+					_f4 0
+					_f8 0.00000000
+					_fC 1.00000000
+					_f10 1.00000000
+					_f14 1.00000000
+					_f18 0.25000000
+					_f1C 0.50000000
+					_f20 1
+				}
+			}
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EPAA_01
+		{
+			Compression ADPCM
+			Headroom -186
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EPAA_01.wav
+			AnimClip pro\PRO_EPAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_ELAA_01
+		{
+			Compression ADPCM
+			Headroom -147
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_ELAA_01.wav
+			AnimClip pro\PRO_ELAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DFAA_05
+		{
+			Compression ADPCM
+			Headroom -194
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DFAA_05.wav
+			AnimClip pro\PRO_DFAA_05.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DTAA_05
+		{
+			Compression ADPCM
+			Headroom -47
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DTAA_05.wav
+			AnimClip pro\PRO_DTAA_05.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FOAA_02
+		{
+			Compression ADPCM
+			Headroom -141
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FOAA_02.wav
+			AnimClip pro\PRO_FOAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_GBAA_01
+		{
+			Compression ADPCM
+			Headroom -190
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_GBAA_01.wav
+			AnimClip pro\PRO_GBAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FEAA_01
+		{
+			Compression ADPCM
+			Headroom -150
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FEAA_01.wav
+			AnimClip pro\PRO_FEAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DTAA_02
+		{
+			Compression ADPCM
+			Headroom -106
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DTAA_02.wav
+			AnimClip pro\PRO_DTAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BZAC_01
+		{
+			Compression ADPCM
+			Headroom 38
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BZAC_01.wav
+			AnimClip pro\PRO_BZAC_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DQAC_01
+		{
+			Compression ADPCM
+			Headroom -15
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DQAC_01.wav
+			AnimClip pro\PRO_DQAC_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DGAA_02
+		{
+			Compression ADPCM
+			Headroom -143
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DGAA_02.wav
+			AnimClip pro\PRO_DGAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EVAA_06
+		{
+			Compression ADPCM
+			Headroom -55
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EVAA_06.wav
+			AnimClip pro\PRO_EVAA_06.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EKAA_02
+		{
+			Compression ADPCM
+			Headroom -19
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EKAA_02.wav
+			AnimClip pro\PRO_EKAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_ELAA_02
+		{
+			Compression ADPCM
+			Headroom -151
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_ELAA_02.wav
+			AnimClip pro\PRO_ELAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_CXAQ_01
+		{
+			Compression ADPCM
+			Headroom -94
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_CXAQ_01.wav
+			AnimClip pro\PRO_CXAQ_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FMAA_03
+		{
+			Compression ADPCM
+			Headroom -190
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FMAA_03.wav
+			AnimClip pro\PRO_FMAA_03.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EMAA_08
+		{
+			Compression ADPCM
+			Headroom 139
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EMAA_08.wav
+			AnimClip pro\PRO_EMAA_08.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EOAA_03
+		{
+			Compression ADPCM
+			Headroom -68
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EOAA_03.wav
+			AnimClip pro\PRO_EOAA_03.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EFAA_01
+		{
+			Compression ADPCM
+			Headroom 66
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EFAA_01.wav
+			AnimClip pro\PRO_EFAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DSAB_01
+		{
+			Compression ADPCM
+			Headroom -124
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DSAB_01.wav
+			AnimClip pro\PRO_DSAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BOAI_01
+		{
+			Compression ADPCM
+			Headroom -190
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BOAI_01.wav
+			AnimClip pro\PRO_BOAI_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_CXAL_01
+		{
+			Compression ADPCM
+			Headroom -188
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_CXAL_01.wav
+			AnimClip pro\PRO_CXAL_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EWAA_04
+		{
+			Compression ADPCM
+			Headroom 25
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EWAA_04.wav
+			AnimClip pro\PRO_EWAA_04.yclip
+			Events null
+			UNKNOWN_23097A2B
+			{
+				Item
+				{
+					_f0 1047450465
+					_f4 0
+					_f8 0.00000000
+					_fC 0.54513200
+					_f10 1.00000000
+					_f14 1.00000000
+					_f18 0.25000000
+					_f1C 0.50000000
+					_f20 1
+				}
+			}
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_AEAB_01
+		{
+			Compression ADPCM
+			Headroom -29
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_AEAB_01.wav
+			AnimClip pro\PRO_AEAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EGAA_03
+		{
+			Compression ADPCM
+			Headroom 9
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EGAA_03.wav
+			AnimClip pro\PRO_EGAA_03.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BNAA_01
+		{
+			Compression ADPCM
+			Headroom -152
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BNAA_01.wav
+			AnimClip pro\PRO_BNAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DDAA_02
+		{
+			Compression ADPCM
+			Headroom -153
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DDAA_02.wav
+			AnimClip pro\PRO_DDAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DTAA_07
+		{
+			Compression ADPCM
+			Headroom -27
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DTAA_07.wav
+			AnimClip pro\PRO_DTAA_07.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_COAA_04
+		{
+			Compression ADPCM
+			Headroom 35
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_COAA_04.wav
+			AnimClip pro\PRO_COAA_04.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_GAAA_01
+		{
+			Compression ADPCM
+			Headroom -140
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_GAAA_01.wav
+			AnimClip pro\PRO_GAAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EMAA_01
+		{
+			Compression ADPCM
+			Headroom 92
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EMAA_01.wav
+			AnimClip pro\PRO_EMAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_ENAA_05
+		{
+			Compression ADPCM
+			Headroom 26
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_ENAA_05.wav
+			AnimClip pro\PRO_ENAA_05.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FKAB_01
+		{
+			Compression ADPCM
+			Headroom 163
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FKAB_01.wav
+			AnimClip pro\PRO_FKAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FJAC_01
+		{
+			Compression ADPCM
+			Headroom 140
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FJAC_01.wav
+			AnimClip pro\PRO_FJAC_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_CYAA_01
+		{
+			Compression ADPCM
+			Headroom 4
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_CYAA_01.wav
+			AnimClip pro\PRO_CYAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B
+			{
+				Item
+				{
+					_f0 2645578164
+					_f4 0
+					_f8 0.00000000
+					_fC 1.00000000
+					_f10 0.75851610
+					_f14 1.00000000
+					_f18 0.25000000
+					_f1C 0.50000000
+					_f20 1
+				}
+			}
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_AEAA_01
+		{
+			Compression ADPCM
+			Headroom -130
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_AEAA_01.wav
+			AnimClip pro\PRO_AEAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DRAB_01
+		{
+			Compression ADPCM
+			Headroom 84
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DRAB_01.wav
+			AnimClip pro\PRO_DRAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DPAC_01
+		{
+			Compression ADPCM
+			Headroom -105
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DPAC_01.wav
+			AnimClip pro\PRO_DPAC_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_CXAT_01
+		{
+			Compression ADPCM
+			Headroom 136
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_CXAT_01.wav
+			AnimClip pro\PRO_CXAT_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FRAA_01
+		{
+			Compression ADPCM
+			Headroom -190
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FRAA_01.wav
+			AnimClip pro\PRO_FRAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FTAA_01
+		{
+			Compression ADPCM
+			Headroom -190
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FTAA_01.wav
+			AnimClip pro\PRO_FTAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DOAA_01
+		{
+			Compression ADPCM
+			Headroom -27
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DOAA_01.wav
+			AnimClip pro\PRO_DOAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_CXAB_01
+		{
+			Compression ADPCM
+			Headroom -197
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_CXAB_01.wav
+			AnimClip pro\PRO_CXAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EQAF_01
+		{
+			Compression ADPCM
+			Headroom -64
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EQAF_01.wav
+			AnimClip pro\PRO_EQAF_01.yclip
+			Events null
+			UNKNOWN_23097A2B
+			{
+				Item
+				{
+					_f0 2322755231
+					_f4 0
+					_f8 0.15707530
+					_fC 1.00000000
+					_f10 1.07251800
+					_f14 1.00000000
+					_f18 0.25000000
+					_f1C 0.50000000
+					_f20 1
+				}
+			}
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EBAA_02
+		{
+			Compression ADPCM
+			Headroom 42
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EBAA_02.wav
+			AnimClip pro\PRO_EBAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FBAA_04
+		{
+			Compression ADPCM
+			Headroom 574
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FBAA_04.wav
+			AnimClip pro\PRO_FBAA_04.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FAAA_02
+		{
+			Compression ADPCM
+			Headroom 89
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FAAA_02.wav
+			AnimClip pro\PRO_FAAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DSAA_01
+		{
+			Compression ADPCM
+			Headroom 22
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DSAA_01.wav
+			AnimClip pro\PRO_DSAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_ESAD_01
+		{
+			Compression ADPCM
+			Headroom 150
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_ESAD_01.wav
+			AnimClip pro\PRO_ESAD_01.yclip
+			Events
+			{
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 8950
+					Flags 0x00000000
+				}
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 41358
+					Flags 0x00000000
+				}
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 55864
+					Flags 0x00000000
+				}
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 85030
+					Flags 0x00000000
+				}
+			}
+			UNKNOWN_23097A2B
+			{
+				Item
+				{
+					_f0 1047450465
+					_f4 0
+					_f8 0.00000000
+					_fC 0.62899880
+					_f10 1.07402700
+					_f14 1.00000000
+					_f18 0.25000000
+					_f1C 0.15277080
+					_f20 1
+				}
+				Item
+				{
+					_f0 2322755231
+					_f4 40425
+					_f8 0.00000000
+					_fC 1.00000000
+					_f10 0.82526310
+					_f14 1.00000000
+					_f18 0.46250000
+					_f1C 0.26250000
+					_f20 1
+				}
+				Item
+				{
+					_f0 4148904455
+					_f4 95306
+					_f8 0.00000000
+					_fC 1.00000000
+					_f10 0.66604690
+					_f14 1.00000000
+					_f18 0.38889580
+					_f1C 0.50000000
+					_f20 1
+				}
+			}
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_ESAC_01
+		{
+			Compression ADPCM
+			Headroom -7
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_ESAC_01.wav
+			AnimClip pro\PRO_ESAC_01.yclip
+			Events
+			{
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 22218
+					Flags 0x00000000
+				}
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 33792
+					Flags 0x00000000
+				}
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 52697
+					Flags 0x00000000
+				}
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 103236
+					Flags 0x00000000
+				}
+			}
+			UNKNOWN_23097A2B
+			{
+				Item
+				{
+					_f0 2322755231
+					_f4 0
+					_f8 0.09628852
+					_fC 1.00000000
+					_f10 0.93619610
+					_f14 1.00000000
+					_f18 0.25000000
+					_f1C 0.26416670
+					_f20 1
+				}
+				Item
+				{
+					_f0 1047450465
+					_f4 36291
+					_f8 0.00000000
+					_fC 0.89620300
+					_f10 1.00000000
+					_f14 1.00000000
+					_f18 0.44166670
+					_f1C 0.26968750
+					_f20 1
+				}
+				Item
+				{
+					_f0 233061320
+					_f4 113610
+					_f8 0.00000000
+					_fC 1.00000000
+					_f10 1.00000000
+					_f14 1.00000000
+					_f18 0.48125000
+					_f1C 0.50000000
+					_f20 1
+				}
+			}
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_ESAA_01
+		{
+			Compression ADPCM
+			Headroom -31
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_ESAA_01.wav
+			AnimClip pro\PRO_ESAA_01.yclip
+			Events
+			{
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 24563
+					Flags 0x00000000
+				}
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 41409
+					Flags 0x00000000
+				}
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 67769
+					Flags 0x00000000
+				}
+			}
+			UNKNOWN_23097A2B
+			{
+				Item
+				{
+					_f0 2322755231
+					_f4 0
+					_f8 0.10504200
+					_fC 0.95254350
+					_f10 1.00000000
+					_f14 1.00000000
+					_f18 0.25000000
+					_f1C 0.24781250
+					_f20 1
+				}
+				Item
+				{
+					_f0 1160513276
+					_f4 30238
+					_f8 0.00000000
+					_fC 0.75729170
+					_f10 1.08453700
+					_f14 1.00000000
+					_f18 0.37916670
+					_f1C 0.27083330
+					_f20 1
+				}
+				Item
+				{
+					_f0 526445205
+					_f4 61005
+					_f8 0.00000000
+					_fC 1.00000000
+					_f10 1.00000000
+					_f14 1.00000000
+					_f18 0.25000000
+					_f1C 0.50000000
+					_f20 1
+				}
+			}
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FHAF_01
+		{
+			Compression ADPCM
+			Headroom 96
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FHAF_01.wav
+			AnimClip pro\PRO_FHAF_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DFAA_01
+		{
+			Compression ADPCM
+			Headroom -195
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DFAA_01.wav
+			AnimClip pro\PRO_DFAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EXAA_02
+		{
+			Compression ADPCM
+			Headroom -26
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EXAA_02.wav
+			AnimClip pro\PRO_EXAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_AZAA_01
+		{
+			Compression ADPCM
+			Headroom -155
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_AZAA_01.wav
+			AnimClip pro\PRO_AZAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DYAA_01
+		{
+			Compression ADPCM
+			Headroom -152
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DYAA_01.wav
+			AnimClip pro\PRO_DYAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BUAD_01
+		{
+			Compression ADPCM
+			Headroom -198
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BUAD_01.wav
+			AnimClip pro\PRO_BUAD_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FHAC_01
+		{
+			Compression ADPCM
+			Headroom 353
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FHAC_01.wav
+			AnimClip pro\PRO_FHAC_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_CYAA_06
+		{
+			Compression ADPCM
+			Headroom -2
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_CYAA_06.wav
+			AnimClip pro\PRO_CYAA_06.yclip
+			Events
+			{
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 6582
+					Flags 0x00000000
+				}
+			}
+			UNKNOWN_23097A2B
+			{
+				Item
+				{
+					_f0 3786099231
+					_f4 0
+					_f8 0.00000000
+					_fC 0.85763940
+					_f10 1.09489000
+					_f14 1.00000000
+					_f18 0.25000000
+					_f1C 0.50000000
+					_f20 1
+				}
+			}
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DPAA_01
+		{
+			Compression ADPCM
+			Headroom 17
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DPAA_01.wav
+			AnimClip pro\PRO_DPAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EQAB_01
+		{
+			Compression ADPCM
+			Headroom 86
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EQAB_01.wav
+			AnimClip pro\PRO_EQAB_01.yclip
+			Events
+			{
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 10568
+					Flags 0x00000000
+				}
+			}
+			UNKNOWN_23097A2B
+			{
+				Item
+				{
+					_f0 233061320
+					_f4 0
+					_f8 0.00000000
+					_fC 1.00000000
+					_f10 1.00000000
+					_f14 1.00000000
+					_f18 0.25000000
+					_f1C 0.50000000
+					_f20 1
+				}
+			}
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EIAC_01
+		{
+			Compression ADPCM
+			Headroom -136
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EIAC_01.wav
+			AnimClip pro\PRO_EIAC_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DRAD_01
+		{
+			Compression ADPCM
+			Headroom -46
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DRAD_01.wav
+			AnimClip pro\PRO_DRAD_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FZAA_02
+		{
+			Compression ADPCM
+			Headroom -190
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FZAA_02.wav
+			AnimClip pro\PRO_FZAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EWAA_06
+		{
+			Compression ADPCM
+			Headroom 29
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EWAA_06.wav
+			AnimClip pro\PRO_EWAA_06.yclip
+			Events
+			{
+				Event
+				{
+					EventTypeHash 0x11976678
+					ParameterHash 0x00000000
+					Timestamp 32990
+					Flags 0x00000000
+				}
+			}
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_COAA_06
+		{
+			Compression ADPCM
+			Headroom 31
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_COAA_06.wav
+			AnimClip pro\PRO_COAA_06.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_BTAG_01
+		{
+			Compression ADPCM
+			Headroom -156
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_BTAG_01.wav
+			AnimClip pro\PRO_BTAG_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FWAA_04
+		{
+			Compression ADPCM
+			Headroom -134
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FWAA_04.wav
+			AnimClip pro\PRO_FWAA_04.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EAAB_01
+		{
+			Compression ADPCM
+			Headroom -44
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EAAB_01.wav
+			AnimClip pro\PRO_EAAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FGAB_01
+		{
+			Compression ADPCM
+			Headroom 106
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FGAB_01.wav
+			AnimClip pro\PRO_FGAB_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DAAA_01
+		{
+			Compression ADPCM
+			Headroom -141
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DAAA_01.wav
+			AnimClip pro\PRO_DAAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_EMAA_04
+		{
+			Compression ADPCM
+			Headroom 80
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_EMAA_04.wav
+			AnimClip pro\PRO_EMAA_04.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FXAA_01
+		{
+			Compression ADPCM
+			Headroom -129
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FXAA_01.wav
+			AnimClip pro\PRO_FXAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_DWAA_01
+		{
+			Compression ADPCM
+			Headroom -41
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_DWAA_01.wav
+			AnimClip pro\PRO_DWAA_01.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PRO_FWAA_02
+		{
+			Compression ADPCM
+			Headroom -141
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave pro\PRO_FWAA_02.wav
+			AnimClip pro\PRO_FWAA_02.yclip
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+	}
+}

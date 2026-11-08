@@ -1,0 +1,13 @@
+Version 1 11
+{
+	IsStream True
+	Stream
+	{
+		Channel 0x00E9E7B7
+		{
+			Headroom -191
+			Wave pro_mcs_1_mastered_only\0x00E9E7B7.wav
+			Events null
+		}
+	}
+}
